@@ -1,6 +1,20 @@
 {
     "ReverseCategorys": false,
     "ShowPrivateWorld": true,
-    "Categorys": [{"Category": "ゲームワールド","Worlds": [{"ID": "wrld_41efe3b1-9931-40ab-a15d-6946d22481b5"}]},{"Category": "ボドゲワールド","Worlds": [{"ID": "wrld_786d238c-bff1-4e52-874d-b6fa6d058880","ID": "wrld_54d02373-c555-4d1d-9530-41cee6c20aa5"}]}]
+    "Categorys": [
+        {
+            "Category": "ゲームワールド",
+            "Worlds": [
+                { "ID": "wrld_41efe3b1-9931-40ab-a15d-6946d22481b5" }
+            ]
+        },
+        {
+            "Category": "ボドゲワールド",
+            "Worlds": [
+                { "ID": "wrld_786d238c-bff1-4e52-874d-b6fa6d058880" },
+                { "ID": "wrld_54d02373-c555-4d1d-9530-41cee6c20aa5" }
+            ]
+        }
+    ],
     "Roles": []
 }
