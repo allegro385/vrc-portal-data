@@ -1,20 +1,60 @@
 {
-    "ReverseCategorys": false,
-    "ShowPrivateWorld": true,
-    "Categorys": [
+  "ReverseCategorys": false,
+  "ShowPrivateWorld": true,
+  "Categorys": [
+    {
+      "Category": "categori1",
+      "Worlds": [
         {
-            "Category": "ゲームワールド",
-            "Worlds": [
-                { "ID": "wrld_41efe3b1-9931-40ab-a15d-6946d22481b5" }
-            ]
+          "ID": "wrld_41efe3b1-9931-40ab-a15d-6946d22481b5",
+          "Name": "SlashCo VR",
+          "RecommendedCapacity": 8,
+          "Capacity": 8,
+          "Description": "3\u20443\u204425 - v0\u20247\u202401\uFF5C A Survival Stealth Horror Co-op game\u2024 WARNING\u02F8 Contains loud sounds\u201A flashing images and profanity\u2024 VRC Group \u227B SLASH\u20243139",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": 1
+        }
+      ]
+    },
+    {
+      "Category": "\u30DC\u30C9\u30B2\u30EF\u30FC\u30EB\u30C9",
+      "Worlds": [
+        {
+          "ID": "wrld_786d238c-bff1-4e52-874d-b6fa6d058880",
+          "Name": "Catan Universe\u01C3\u01C3",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u306E\u30AB\u30BF\u30F3\u3067\u904A\u3079\u307E\u3059\u3002\u822A\u6D77\u8005\u7248\u3084\uFF16\u4EBA\u7528\u306E\u62E1\u5F35\u3082\u904A\u3079\u307E\u3059\u3002",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": 1
         },
         {
-            "Category": "ボドゲワールド",
-            "Worlds": [
-                { "ID": "wrld_786d238c-bff1-4e52-874d-b6fa6d058880" },
-                { "ID": "wrld_54d02373-c555-4d1d-9530-41cee6c20aa5" }
-            ]
+          "ID": "wrld_54d02373-c555-4d1d-9530-41cee6c20aa5",
+          "Name": "\u30A2\u30FC\u30C8\u30C7\u30A3\u30FC\u30E9\u30FC ArtDealer \uFF3BJP\uFF3D",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u30EF\u30FC\u30EB\u30C9\u3067\u3059",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": 1
         }
-    ],
-    "Roles": []
+      ]
+    },
+    {
+      "Category": "testWorld",
+      "Worlds": []
+    }
+  ],
+  "Roles": []
 }
