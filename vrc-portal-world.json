@@ -64,6 +64,123 @@
             "iOS": false
           },
           "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_786d238c-bff1-4e52-874d-b6fa6d058880",
+          "Name": "Catan Universe\u01C3\u01C3",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u306E\u30AB\u30BF\u30F3\u3067\u904A\u3079\u307E\u3059\u3002\u822A\u6D77\u8005\u7248\u3084\uFF16\u4EBA\u7528\u306E\u62E1\u5F35\u3082\u904A\u3079\u307E\u3059\u3002\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/09/25 - \u66F4\u65B0\u65E5 2024/12/29",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_f66fe20c-268b-4bff-b24c-70947055faa6",
+          "Name": "BattleLine\uFF3Bjp\uFF3D\u227Across-platform\u227B",
+          "RecommendedCapacity": 8,
+          "Capacity": 16,
+          "Description": "quest\u5BFE\u5FDC\u3057\u305F\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u300C\u30D0\u30C8\u30EB\u30E9\u30A4\u30F3\u300D\u306E\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002\n\u30BF\u30B0\uFF1A#game\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2019/04/14 - \u66F4\u65B0\u65E5 2019/05/17",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_24067863-708c-479f-b25d-f696a37d2a4b",
+          "Name": "Blokks",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "Inspired by Mattel\u0027s Blokus\u201A Video Player also available\n\u30BF\u30B0\uFF1A#udon #game\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/02/13 - \u66F4\u65B0\u65E5 2024/08/12",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_a1ac45ee-1a15-4efe-89ed-ce0816a021de",
+          "Name": "\u3042\u305A\uFF5E\u308B",
+          "RecommendedCapacity": 6,
+          "Capacity": 12,
+          "Description": "\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u3067\u30592\uFF5E4\u4EBA\u300130\uFF5E45\u5206 210717\u30BF\u30A4\u30EB\u306E\u914D\u308A\u65B9\u4FEE\u6B63\n\u30BF\u30B0\uFF1A#boardgame\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/03/16 - \u66F4\u65B0\u65E5 2021/07/31",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_cb5bffcf-5c86-4c05-a7b4-8207f327c10b",
+          "Name": "Moon Animal War",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "2-4\u4EBA \u22173Room \u672C\u683C\u7684\u306A\u6226\u7565\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u304C\u767B\u5834\uFF01 4\u3064\u306E\u500B\u6027\u7684\u306A\u9663\u55B6\u306E\u529B\u3092\u99C6\u4F7F\u3057\u3001\u6708\u306E\u88CF\u5074\u3092\u624B\u4E2D\u306B\u53CE\u3081\u3088\uFF01 4\u30AB\u56FD\u8A9E\u5BFE\u5FDC\uFF08\u65E5\u30FB\u82F1\u30FB\u4E2D\u30FB\u97D3\uFF09 QUEST\u2044PCVR\u2044DESKTOP \u30AA\u30EA\u30B8\u30CA\u30EB\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u7B2C\u4E09\u5F3E 2-4 players \u22173Room A full-fledged strategy board game is now available\u01C3 Use the power of four unique camps to take control of the far side of the moon\u01C3 Available in 4 languages\uFF08English\u2044Japanese\u2044Chinese\u2044Korean\uFF09 QUEST\u2044PCVR\u2044DESKTOP The third original board game\u01C3\n\u30BF\u30B0\uFF1A#boardgame #game #strategy #original #party\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/02/07 - \u66F4\u65B0\u65E5 2024/09/26",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_4aebef30-f891-4cec-9fa9-d13599732f9b",
+          "Name": "\u30AC\u30F3\u30CA\u30AC\u30F3 \u2044 GUN AND GUN",
+          "RecommendedCapacity": 32,
+          "Capacity": 40,
+          "Description": "\u30A2\u30CA\u30ED\u30B0\u30B2\u30FC\u30E0\u88FD\u4F5C\u30B5\u30FC\u30AF\u30EB\u300CKeepdry\u300D\u69D8\u5236\u4F5C\u306E\u3001\u9AD8\u901F\u4E8C\u4E01\u9283\u30D0\u30C8\u30EB\u30AB\u30FC\u30C9\u30B2\u30FC\u30E0\u300C\u30AC\u30F3\u30CA\u30AC\u30F3\u300D\u3092VR\u3067\u904A\u3079\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002 \u30D7\u30EC\u30A4\u4EBA\u6570\u02F82\u4EBA \u30D7\u30EC\u30A4\u6642\u9593\u02F810\u301C30\u5206 \u5BFE\u8C61\u5E74\u9F62\u02F812\u6B73\u4EE5\u4E0A\n\u30BF\u30B0\uFF1A#cardgame #boardgame #game #tabletop #admin_vdp24w_j\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/07/22 - \u66F4\u65B0\u65E5 2025/07/03",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_0c2fcccc-a77c-4649-8ba3-182729d4c208",
+          "Name": "\u9EBB\u96C0 \u7DD1\u4E00\u8272 \u2044 Just Riichi Mah-jongg \uFF08Mahjong\uFF09 Lu-Yise",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "\uFF3BEnglish description below\uFF3D\uFF03VRC\u7DD1\u4E00\u8272 \u306F\u8EFD\u91CF\u3067\u5FEB\u9069\u306A\u9EBB\u96C0\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002\u6539\u5909\u3057\u305F\u5168\u81EA\u52D5\u9EBB\u96C0\u5353\u300C\u9752\u7A7A\u9EBB\u96C0\u300D\u30928\u5353\u8A2D\u7F6E\u3002\u4E09\u9EBB\u5BFE\u5FDC\u3001\u4E8C\u9EBB\u3082\u3042\u3063\u305F\u308A\u3057\u307E\u3059\u3002Android\uFF08Quest\uFF09\u3084\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\u3067\u3082\u30D7\u30EC\u30A4\u53EF\u80FD\u3002\u724C\u8B5C\u691C\u8A0E\u6A5F\u80FD\u3082\u3042\u308A\u307E\u3059\u3002\u914D\u4FE1\u3001\u30A4\u30D9\u30F3\u30C8\u3001\u5927\u4F1A\u4F7F\u7528\u306F\u3054\u81EA\u7531\u306B\u3069\u3046\u305E\uFF01\u305D\u308C\u3089\u306B\u5F79\u7ACB\u3064\u30AE\u30DF\u30C3\u30AF\u3082\u3042\u308A\u307E\u3059\u3002 \uFF03VRChat_LuYise is a lightweight and comfortable world for Japanese-style Riichi Mahjong\u2024 It features 8 tables of the modified fully automated \uFF02Aozora-Mahjong\uFF02 system\u2024 Supports Sanma \uFF083-player\uFF09 and even offers Liangma \uFF082-player\uFF09\u2024 Also playable on Android \uFF08Quest\uFF09 and Desktop platforms\u2024 Includes a game record review function\u2024 Feel free to use it for streaming\u201A events\u201A or tournamentsgimmicks are also available to assist with these activities\u01C3\n\u30BF\u30B0\uFF1A#boardgame #mahjong #game #riichi #sanma\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/05/04 - \u66F4\u65B0\u65E5 2025/07/19",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_df24020d-d60c-404a-b20f-51b37220ee40",
+          "Name": "\uFF3BGame\uFF3D Join Wars \uFF3BJP\u2024EN\u2024KR\u2024CN\uFF3D",
+          "RecommendedCapacity": 12,
+          "Capacity": 24,
+          "Description": "\u3010JP\u30111-4\u4EBA\u7528\u30AB\u30FC\u30C9\u30B2\u30FC\u30E0\u3002VRChat\u306E\u300CJoin\u6226\u4E89\u300D\u304C\u30C6\u30FC\u30DE\u306E\u7AF6\u6280\u6027\u304C\u9AD8\u3044\u300C\u30C7\u30C3\u30AD\u69CB\u7BC9\u518D\u7834\u58CA\u300D\u30B2\u30FC\u30E0\u3002\u3010EN\u30111-4 players card game\u2024 \uFF02Deck-building \uFF06 re-destructing\uFF02 competitive card game about \uFF02Joining VRChat events\uFF02\u2024\u3010KR\u30111~4\uC778\uC6A9 \uCE74\uB4DC \uAC8C\uC784\u2024 VRChat\uC758 \u300CJoin \uC804\uC7C1\u300D\uC774 \uD14C\uB9C8\uC778 \uACBD\uC7C1\uC131\uC774 \uB192\uC740 \u300C\uB371 \uBE4C\uB529 \uC7AC\uAD6C\uC131\u300D \uAC8C\uC784\uC785\uB2C8\uB2E4\u2024\u3010CN\u30111-4\u4EBA\u7528\u5361\u724C\u6E38\u620F\u3002\u4EE5VRChat\u7684\u300C\u53C2\u52A0\u6D3B\u52A8\u300D\u4E3A\u4E3B\u9898\u7684\u9AD8\u7ADE\u4E89\u6027\u300C\u724C\u7EC4\u6784\u7B51\u4E0E\u518D\u7834\u574F\u300D\u6E38\u620F\u3002\n\u30BF\u30B0\uFF1A#joinwars #boardgame #quest #udon #game #admin_vdp24w #admin_vdp24w_j\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/02/04 - \u66F4\u65B0\u65E5 2025/07/20",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_082332d7-d621-4b9e-a1cd-a2ecaa6305e1",
+          "Name": "\u3071\u3063\u3061\u308F\uFF5E\u304F",
+          "RecommendedCapacity": 6,
+          "Capacity": 12,
+          "Description": "\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u3067\u3059 2\u4EBA20\uFF5E40\u5206\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/03/21 - \u66F4\u65B0\u65E5 2021/03/25",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
         }
       ]
     },
@@ -76,6 +193,372 @@
           "RecommendedCapacity": 24,
           "Capacity": 32,
           "Description": "\u7DCF\u54E1\u3001\u6226\u95D8\u914D\u7F6E\uFF01 \u30AB\u30B8\u30E5\u30A2\u30EB\u306B\u904A\u3079\u308B\u3001World of Warships\u306E\u3088\u3046\u306A\u8266\u968A\u6226\u30B2\u30FC\u30E0\u3067\u3059\u3002 Action stations\u01C3 Casual naval shooter game like World of Warships\u2024 \uFF3B24Players\u201A Desktop \u2044 Android compatible\u201A Special skins for Patreon\uFF3D\n\u30BF\u30B0\uFF1A#game #vehicle #shooting #ship #battle\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/03/31 - \u66F4\u65B0\u65E5 2025/06/26",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_41efe3b1-9931-40ab-a15d-6946d22481b5",
+          "Name": "SlashCo VR",
+          "RecommendedCapacity": 8,
+          "Capacity": 8,
+          "Description": "7\u204427\u204425 - v0\u20248\u20240\uFF5C A Survival Stealth Horror Co-op game\u2024 WARNING\u02F8 Contains loud sounds\u201A flashing images and profanity\u2024 VRC Group \u227B SLASH\u20243139\n\u30BF\u30B0\uFF1A#content_adult #content_horror #game #horror #udon #co-op #survival #feature_props_disabled #feature_prints_disabled #feature_drones_disabled\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/12/09 - \u66F4\u65B0\u65E5 2025/07/27",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        }
+      ]
+    },
+    {
+      "Category": "\u30DF\u30E5\u30FC\u30B8\u30A2\u30E0",
+      "Worlds": [
+        {
+          "ID": "wrld_7225923b-2eab-40a7-a2ce-d1258dcf8894",
+          "Name": "\u307B\u3089\u3044\u305A\u30DF\u30E5\u30FC\u30B8\u30A2\u30E0",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "\u3044\u3064\u3082\u5143\u6C17\u3067\u304B\u308F\u3044\u3044\u30DB\u30E9\u30A4\u30BA\u3061\u3083\u3093\u306E\u5199\u771F\u304C\u5C55\u793A\u3055\u308C\u3066\u3044\u308B\u30AE\u30E3\u30E9\u30EA\u30FC\u30EF\u30FC\u30EB\u30C9\u3067\u3059\uFF01 \u5DE8\u5927\u306A\u30DB\u30E9\u30A4\u30BA\u3061\u3083\u3093\u3068500\u679A\u4EE5\u4E0A\u306E\u5199\u771F\u304C\u304A\u51FA\u8FCE\u3048\uFF01\n\u30BF\u30B0\uFF1A#Horiz #gallery #photo #museum\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/05/06 - \u66F4\u65B0\u65E5 2025/07/01",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_dbc47a95-08bb-4a07-9a44-874ed94d70df",
+          "Name": "\u7B2C1\u56DE\u5BFA\u4E95\u30AB\u30F3\u30C8\u30EA\u30FC\u30D5\u30A9\u30C8\u30B3\u30F3\u5C55\u793A\u5834",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "2022\u204412\u204417\u306B\u884C\u308F\u308C\u305F\u5BFA\u4E95\u30AB\u30F3\u30C8\u30EA\u30FC\u30D5\u30A9\u30C8\u30B3\u30F3\u306E\u30A2\u30FC\u30AB\u30A4\u30D6\u3067\u3059\u3002 TeraiPhotoContest \u30A2\u30EB\u30D0\u30E0\u3092booth\u3067\u914D\u5E03\u4E2D\u02F8https\u02F8\u2044\u2044rabbitwanderers\u2024booth\u2024pm\u2044items\u20444508610\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/12/14 - \u66F4\u65B0\u65E5 2022/12/18",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        }
+      ]
+    },
+    {
+      "Category": "\u30DD\u30FC\u30BF\u30EB",
+      "Worlds": [
+        {
+          "ID": "wrld_0218a13c-e65f-4cf4-8cf7-0598c9f4e81d",
+          "Name": "\u30DC\u30C9\u30B2\u30DD\u30FC\u30BF\u30EB",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u306E\u5F85\u3061\u5408\u308F\u305B\u7528\u306E\u30EF\u30FC\u30EB\u30C9\u3060\u3088\uFF01 \u30DC\u30C9\u30B2\u7CFB\u30EF\u30FC\u30EB\u30C9\u3078\u306E\u30DD\u30FC\u30BF\u30EB\u3068\u7D39\u4ECB\u304C\u3042\u308B\uFF01 \u6BCE\u9031\u6728\u66DC\u65E521\u02F800\u304B\u3089\u306E\u30A4\u30D9\u30F3\u30C8\u300C\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u3092\u904A\u307C\u3046\uFF01\u300D\u306E\u96C6\u5408\u5834\u6240\u306B\u3082\u306A\u3063\u3066\u308B\uFF01\n\u30BF\u30B0\uFF1A#boardgame #portal\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/09/04 - \u66F4\u65B0\u65E5 2025/07/19",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_60f43dc6-97ff-478f-9371-dd1f103feff5",
+          "Name": "PORTAL STORAGE-\u30DD\u30FC\u30BF\u30EB\u30B9\u30C8\u30EC\u30FC\u30B8-",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "2024\u204412\u204422\u66F4\u65B0 WorldCount PC\u02F8700 Quest\u02F8500 \u5DE6\u306EPC\u30EF\u30FC\u30EB\u30C9\u306F\u666F\u89B3\u306E\u826F\u3044\u30EF\u30FC\u30EB\u30C9\u3092\u3001 \u53F3\u306EQuest\u30EF\u30FC\u30EB\u30C9\u306F\u69D8\u3005\u306A\u30B8\u30E3\u30F3\u30EB\u306E\u3092\u8A2D\u7F6E \u30B5\u30E0\u30CD\u753B\u50CF\u3092USE\u3059\u308B\u4E8B\u3067\u30DD\u30FC\u30BF\u30EB\u304C\u51FA\u73FE\u3057\u307E\u3059\n\u30BF\u30B0\uFF1A#portal\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/03/21 - \u66F4\u65B0\u65E5 2024/12/22",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_5a4c4b76-8117-43e9-bb10-6bdf46872a46",
+          "Name": "\u661F\u7A7A\u306E\u30DD\u30FC\u30BF\u30EB\u56F3\u66F8\u9928 - Starry Portal Library",
+          "RecommendedCapacity": 15,
+          "Capacity": 30,
+          "Description": "This is a portal world\u2024 Portals are set by categories\u201A e\u2024g\u2024 forest\u201A summer and room\u2024 Most of worlds are beautiful and good for photos\u2024\n\u30BF\u30B0\uFF1A#portal #starry #star #night\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/12/18 - \u66F4\u65B0\u65E5 2025/01/03",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_e4998032-8505-403e-817a-76bcc5af6816",
+          "Name": "\u306B\u3068\u30DD\u30FC\u30BF\u30EB -nito portal-",
+          "RecommendedCapacity": 32,
+          "Capacity": 64,
+          "Description": "\u30C1\u30EB\u7CFB\u3084\u64AE\u5F71\u5411\u3051\u3092\u96C6\u3081\u305F\u30DD\u30FC\u30BF\u30EB\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002\u30BF\u30B0\u3084\u6587\u5B57\u5217\u3067\u691C\u7D22\u3067\u304D\u307E\u3059\u3002\u3053\u306E\u30EF\u30FC\u30EB\u30C9\u81EA\u4F53\u3082\u30C1\u30EB\u30EF\u30FC\u30EB\u30C9\u3068\u3057\u3066\u304F\u3064\u308D\u3052\u308B\u7A7A\u9593\u306B\u3057\u3066\u3044\u307E\u3059\u3002\u91CD\u3044\u4EBA\u306F\u58C1\u306E\u30B9\u30A4\u30C3\u30C1\u3067DirectionalLight\u3092\u5207\u308B\u3068\u5C11\u3057\u8EFD\u304F\u306A\u308A\u307E\u3059\u3002QvPen\u3001\u52D5\u753B\u30D7\u30EC\u30A4\u30E4\u30FC\u3001\u30CA\u30A4\u30C8\u30E2\u30FC\u30C9\u3001\u30A2\u30D0\u30BF\u30FC\u30D5\u30A3\u30AE\u30E5\u30A2\u3001imagePad\u3001\u30A4\u30D9\u30F3\u30C8\u30BF\u30A4\u30E0\u30C6\u30FC\u30D6\u30EB\u3042\u308A\u307E\u3059\u3002\n\u30BF\u30B0\uFF1A#portal #hub #relax #sleep #chill\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/02/15 - \u66F4\u65B0\u65E5 2025/06/30",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_7ef1335c-df1e-4200-8d19-4d45541789bd",
+          "Name": "\u6574\u7406\u306E\u305F\u3081\u306E\u30DB\u30E9\u30EF\u30DD\u30FC\u30BF\u30EB\u30EF\u30FC\u30EB\u30C9",
+          "RecommendedCapacity": 64,
+          "Capacity": 64,
+          "Description": "\u30EF\u30FC\u30EB\u30C9\u306E\u304A\u6C17\u306B\u5165\u308A\u6574\u7406\u306E\u70BA\u306E\u30DB\u30E9\u30EF\u30DD\u30FC\u30BF\u30EB\u30EF\u30FC\u30EB\u30C9 \u52D5\u753B\u3084\u7761\u7720\u7528\u30D9\u30C3\u30C9\u3082\u3042\u308B\u3088\n\u30BF\u30B0\uFF1A#horror #home #portal #scary\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/07/24 - \u66F4\u65B0\u65E5 2023/11/23",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_30cc30d1-681c-4e67-b30b-89cf26db7a06",
+          "Name": "\uFF3BJP\uFF3DHorror Portal Montaj",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "\u30DB\u30E9\u30FC\u30EF\u30FC\u30EB\u30C9\u306E\u30DD\u30FC\u30BF\u30EB\u3092\u96C6\u3081\u3066\u3044\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002\u4EBA\u6570\u3054\u3068\u306B\u884C\u3051\u308B\u30DB\u30E9\u30EF\u3092\u5206\u985E\u3057\u3066\u307E\u3059\u3002\u5F85\u5408\u5BA4\u3042\u308A\u3002Montaj\u306B\u7279\u306B\u610F\u5473\u306F\u7121\u3044\u3067\u3059\u3002\n\u30BF\u30B0\uFF1A#horror #portal\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/09/03 - \u66F4\u65B0\u65E5 2025/07/27",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_3c7486d3-6cf4-42fd-bc46-071c682cb54d",
+          "Name": "\uFF3BJP\uFF3DHorror portal World _\u30DB\u30E9\u30FC\u30EF\u30FC\u30EB\u30C9\u30DD\u30FC\u30BF\u30EB\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3_",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "\u30DB\u30E9\u30FC\u30EF\u30FC\u30EB\u30C9\u306E\u30DD\u30FC\u30BF\u30EB\u3092\u7F6E\u3044\u3066\u305F\u308A\u79C1\u304C\u7F6E\u304D\u305F\u3044\u3082\u306E\u3092\u7F6E\u3044\u3066\u3044\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002\u65B0\u3057\u3044\u30DB\u30E9\u30FC\u30EF\u30FC\u30EB\u30C9\u3092\u898B\u3064\u3051\u305F\u3089\u66F4\u65B0\u3057\u3066\u3044\u304D\u307E\u3059\u3002 2023_07_14 VCC\u5BFE\u5FDC\u2044\u30EF\u30FC\u30EB\u30C9\u30B5\u30E0\u30CD\u5909\u66F4\u2044\u30EF\u30FC\u30EB\u30C9\u540D\u5909\u66F4\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2019/07/17 - \u66F4\u65B0\u65E5 2023/07/19",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        }
+      ]
+    },
+    {
+      "Category": "\u30DB\u30E9\u30FC",
+      "Worlds": [
+        {
+          "ID": "wrld_1e364e73-681a-43a5-a7d4-06aab9635e4a",
+          "Name": "\u30D4\u8650\u7814\u7A76\u6240 Pi\u02F8G RESEARCH Lab -PIGYAKU HORROR-",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u300E\u7532\u8CC0\u6D41\u5FCD\u8005\u307D\u3093\u307D\u3053\u300F\u3068\u300E\u30AA\u30B7\u30E3\u30EC\u306B\u306A\u308A\u305F\u3044\uFF01\u30D4\u30FC\u30CA\u30C3\u30C4\u304F\u3093\u300F\u306E\uFF12\u5339\u7D44\u300E\u307D\u3053\u30D4\u30FC\u300F\u306B\u3088\u308B\u5922\u306E\u30C6\u30FC\u30DE\u30D1\u30FC\u30AF\u300E\u307D\u3053\u30D4\u30FC\u30E9\u30F3\u30C9\u300F\u306E\u30A2\u30C8\u30E9\u30AF\u30B7\u30E7\u30F3\u3001\u300E\u30D4\u8650\u7814\u7A76\u6240\u300F\u306EQuest\u5BFE\u5FDC\u5358\u4F53\u30D0\u30FC\u30B8\u30E7\u30F3\u3067\u3059\uFF01\uFF01\n\u30BF\u30B0\uFF1A#pokopea #horror #game #japan #content_horror\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/05/07 - \u66F4\u65B0\u65E5 2024/05/08",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_bb3f79e5-3e39-4190-aecb-7237b264f6bb",
+          "Name": "Anna",
+          "RecommendedCapacity": 4,
+          "Capacity": 6,
+          "Description": "Horror experience\u201A 1-6 players\u201A 20-30 minute playtime\u2024 Something unnatural is here\u037E it fills you with dread\u2024 Will you endure the night alone with Anna?\n\u30BF\u30B0\uFF1A#horror #paranormal #game #scary\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/10/02 - \u66F4\u65B0\u65E5 2024/10/06",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_6d58fc9c-ff11-4b9b-a810-2305a7d2f8a7",
+          "Name": "\u546A\u8FF7\u5EC3\u5BFA ~Cursed Maze Temple~",
+          "RecommendedCapacity": 6,
+          "Capacity": 6,
+          "Description": "\u904A\u3073\u534A\u5206\u3067\u809D\u8A66\u3057\u306B\u304D\u305F\u5B66\u751F\u305F\u3061\u306F\u3001\u5EC3\u5BFA\u304B\u3089\u4E8C\u5EA6\u3068\u5E30\u3063\u3066\u6765\u308B\u3053\u3068\u306F\u306A\u304B\u3063\u305F\u2024\u2024\u2024 ~The students who came to the abandoned temple for a thrill never returned\u2024\u2024\u2024~\n\u30BF\u30B0\uFF1A#content_horror\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/10/16 - \u66F4\u65B0\u65E5 2025/06/29",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_e7a7b516-2354-4bce-bbf0-6b71d657eff0",
+          "Name": "Milya\uFF3Bparadox\uFF3D",
+          "RecommendedCapacity": 1,
+          "Capacity": 12,
+          "Description": "Supports English \uFF06 Japanese - \uFF02Corpses do not retain your perception\u2024\uFF02 - A psychological metafictional horror - \u65E5\u672C\u8A9E\u3068\u82F1\u8A9E\u5BFE\u5FDC - \u300C\u6B7B\u4F53\u306F\u3042\u306A\u305F\u306E\u8A8D\u8B58\u3092\u4FDD\u6301\u3057\u306A\u3044\u3002\u300D - \u8A8D\u8B58\u3092\u72C2\u308F\u305B\u308B\u9006\u8AAC\u7684\u30E1\u30BF\u30D5\u30A3\u30AF\u30B7\u30E7\u30F3\u30DB\u30E9\u30FC - No puzzles\u201A 30-40 mins - Updated 2025\u204402\u204421\u02F8 3 secret data\u201A 1 hidden door \u914D\u4FE1 \u64AE\u5F71\u306F\u3054\u81EA\u7531\u306B Feel free to stream or record\u2024\n\u30BF\u30B0\uFF1A#horror #game #content_horror #creepy\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/02/02 - \u66F4\u65B0\u65E5 2025/07/15",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_a95a3d42-1064-4f7a-8b8a-9d6b5ba3a364",
+          "Name": "\u8FF7\u3044\u30F6\u539F",
+          "RecommendedCapacity": 4,
+          "Capacity": 8,
+          "Description": "\u3053\u306E\u30EF\u30FC\u30EB\u30C9\u306F\u30D5\u30A3\u30AF\u30B7\u30E7\u30F3\u3067\u3059\u3002 \u4EBA\u7269\u30FB\u5730\u540D\u30FB\u56E3\u4F53\u540D\u7B49\u306F\u67B6\u7A7A\u306E\u3082\u306E\u3067\u3059\u3002 \u7570\u5909\u3082\u7570\u5E38\u3082\u8D85\u5E38\u3082\u4F55\u3082\u3042\u308A\u307E\u305B\u3093\u3001\u5E7D\u970A\u3082\u5996\u602A\u3082\u602A\u7570\u3082\u4F55\u3082\u3044\u307E\u305B\u3093\u3002 \u305F\u3060\u3001\u305D\u3053\u306B\u3042\u308B\u306E\u306F\u5642\u8A71\u3060\u3051\u3067\u3002\n\u30BF\u30B0\uFF1A#horror\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/09/08 - \u66F4\u65B0\u65E5 2024/09/11",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_534b1d79-b440-40bb-bdcd-61320443de3e",
+          "Name": "\u3010\u591C\u9727\u3011",
+          "RecommendedCapacity": 4,
+          "Capacity": 4,
+          "Description": "\u3010\u63A2\u7D22\u578B\u548C\u98A8\u30DB\u30E9\u30FC\u3011\u9727\u7ACB\u3061\u8FBC\u3081\u308B\u5C4B\u6577\u306E\u5148\u3067\u5F85\u3064\u3082\u306E\u3068\u306F\uFF1F\u3010Tweet\u02F8 \uFF03VRC\u591C\u9727 \u3011\u521D\u898B\u3067\u306E\u60F3\u5B9A\u30AF\u30EA\u30A2\u6642\u9593\u306F30\uFF5E40\u5206\u7A0B\u3067\u3059\u3002\u30E9\u30A4\u30C8\u3092\u6301\u3061\u306A\u304C\u3089\u9375\u3092\u62FE\u3046\u3001\u6249\u3092\u958B\u3051\u308B\u7B49\u306E\u64CD\u4F5C\u304C\u5FC5\u8981\u306A\u70BAVR\u30E2\u30FC\u30C9\u63A8\u5968\u3067\u3059\u3002\u307E\u305F\u3001\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\u30E2\u30FC\u30C9\u306E\u5834\u5408\u3001\u4E00\u90E8\u30A2\u30A4\u30C6\u30E0\u306E\u53D6\u5F97\u3084\u89E3\u9320\u30AE\u30DF\u30C3\u30AF\u3067USE\u5224\u5B9A\u304C\u62BC\u3057\u306B\u304F\u3044\u5834\u5408\u304C\u3042\u308A\u307E\u3059\u3002\n\u30BF\u30B0\uFF1A#horror #fog #asia #game #japan #feature_stickers_disabled\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/04/21 - \u66F4\u65B0\u65E5 2024/09/27",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_8b77dcd3-5738-4fbf-a7f1-c51c9b771f4f",
+          "Name": "Tent Of Terror",
+          "RecommendedCapacity": 6,
+          "Capacity": 6,
+          "Description": "\u83EF\u3084\u304B\u306A\u96F0\u56F2\u6C17\u304C\u6F02\u3046\u30B5\u30FC\u30AB\u30B9\u3002\u3042\u306A\u305F\u306F\u76EE\u3092\u899A\u307E\u3059\u3068\u3001\u305D\u3053\u306B\u3044\u305F\u3002\u3057\u304B\u3057\u3001\u4F55\u304B\u304C\u304A\u304B\u3057\u3044\u2024\u2024\u2024 \u30B5\u30FC\u30AB\u30B9\u30C6\u30F3\u30C8\u304B\u3089\u306E\u8131\u51FA\u3092\u76EE\u6307\u3059\u30DB\u30E9\u30FC\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002\u30D7\u30EC\u30A4\u6642\u9593\uFF1A10\uFF5E15\u5206 The circus tent exudes an air of glamour\u2024 You wake up to find yourself here\u2024 Yet something feels wrong\u2024\u2024\u2024 A horror world where you must escape from the circus tent\u2024 Playtime\u02F8 10-15 minutes\n\u30BF\u30B0\uFF1A#game #horror #escape\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/04/02 - \u66F4\u65B0\u65E5 2025/04/08",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_c842eb8c-d621-408f-a63f-7e1f917d6ff3",
+          "Name": "Developed Fears \uFF3BV2\u20246\uFF3D",
+          "RecommendedCapacity": 1,
+          "Capacity": 1,
+          "Description": "\uFF08The frame rate drops are a known issue\u2024 Guys\u201A I\u0027m doing my best\u01C3\uFF09 This is a Horror game\u201A inspired by some Fatal Frame concepts\u2024 Expect some strobing light effects\u201A puzzles and horror elements\u2024 A few features are still buggy since I\u0027m still learning as I go\u2024 The keys in the final stretch are randomly generated from 3 different variations\u2024 \uFF08Some puzzles are easier to complete in VR\u2024 Your flashlight can find hard to locate items and hints\u2024\uFF09\n\u30BF\u30B0\uFF1A#content_horror #content_violence #Horror #Fatal_Frame #game #Puzzles #Asylum #content_adult #feature_emoji_disabled #feature_stickers_disabled #feature_drones_disabled\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/12/05 - \u66F4\u65B0\u65E5 2025/05/12",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_702c0fdb-3c73-4beb-9138-d875e207b0f8",
+          "Name": "No End House",
+          "RecommendedCapacity": 6,
+          "Capacity": 6,
+          "Description": "A short horror experience \uFF3B25-40 minutes\uFF3D A strange new attraction has appeared in town the No-End House\u2024 They say no one has ever seen the last room\n\u30BF\u30B0\uFF1A#content_horror #feature_stickers_disabled #feature_focus_view_disabled #horror #game #creepy #halloween #scary\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/10/11 - \u66F4\u65B0\u65E5 2025/02/24",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_d3721f82-a99b-4fde-9a98-ae82a30a81fa",
+          "Name": "Botanophobia",
+          "RecommendedCapacity": 6,
+          "Capacity": 6,
+          "Description": "Botanophobia is a semi-open world horror game that involves searching the expansive map for items needed to progress\u2024 The way forward may not always be clear and is always randomized\u2024 In order to progress\u201A thorough investigation of each and every area will be required\u2024 This experience is intended to be played using in-game proximity chat\u201A with players splitting up to complete objectives\u2024 The estimated time of completion is 1\u20245 to 2 hours for inexperienced players\u201A but expect this time to shoot downwards as you become more familiar with things\u2024\n\u30BF\u30B0\uFF1A#content_horror #horror #game #scary\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/03/07 - \u66F4\u65B0\u65E5 2025/06/04\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u8B0E\u89E3\u304D\u63A2\u7D22\u7CFB",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_43064a14-aa8a-4882-850e-7fb37469eb43",
+          "Name": "Unshattered Destination",
+          "RecommendedCapacity": 4,
+          "Capacity": 4,
+          "Description": "A mysterious\u201A horror adventure made for two or lone survivor\u01C3 Made by OfficialSayon\u2024 Created with the VRCSDK 2 Engine\u2024\n\u30BF\u30B0\uFF1A#content_violence #content_gore #game #club #horror #officialsayon #unshattered #admin_approved #feature_stickers_disabled #feature_pedestals_disabled #feature_drones_disabled #feature_focus_view_disabled\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/07/28 - \u66F4\u65B0\u65E5 2025/04/26\n\u500B\u4EBA\u30E1\u30E2\uFF1A4\u30C1\u30E3\u30D7\u30BF\u30FC\u3042\u308A\u30C8\u30FC\u30BF\u30EB4\uFF5E5\u6642\u9593\u7A0B\u5EA6",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_24e4e1b6-6fed-45ce-84f5-a6f9891eb75b",
+          "Name": "\u30DB\u30E9\u30EF\u30C8\u30EC\u30FC\u30CB\u30F3\u30B0 \uFF5EHorror World Training\uFF5E",
+          "RecommendedCapacity": 16,
+          "Capacity": 24,
+          "Description": "\u521D\u5FC3\u8005\u3084\u30DB\u30E9\u30EF\u304C\u82E6\u624B\u306A\u4EBA\u5411\u3051\u306E\u3001\u3042\u307E\u308A\u6016\u304F\u306A\u3044\u30C8\u30EC\u30FC\u30CB\u30F3\u30B0\u7528\u30DB\u30E9\u30FC\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002 This is a training world for beginners in horror worlds and for those who are not good with horror\u2024\n\u30BF\u30B0\uFF1A#horror #game #beginner #moshiki #training #admin_spookality_2024_showcase #admin_spookality_2024_featured\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/10/05 - \u66F4\u65B0\u65E5 2025/07/17",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_26fe3e58-f67f-4cae-b6c5-3c6e808f41f6",
+          "Name": "The Witch\u0027s House",
+          "RecommendedCapacity": 10,
+          "Capacity": 20,
+          "Description": "RPG Scenery\u2024 \u9B54\u5973\u306E\u5BB6\u306E\u30D0\u30FC\u30C1\u30E3\u30EB\u30EA\u30A2\u30EA\u30C6\u30A3\u4F53\u9A13\u3002\u516C\u5F0F\u306E\u9B54\u5973\u306E\u5BB6\u3068\u306F\u95A2\u4FC2\u3042\u308A\u307E\u305B\u3093\u3002\uFF08JP\u02F8 10-17\uFF09 \uFF08KR\u02F8 10-18\uFF09 \uFF08CH\u02F810-19\uFF09\n\u30BF\u30B0\uFF1A#content_gore #rpg\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/10/13 - \u66F4\u65B0\u65E5 2024/10/30\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u30D5\u30EA\u30FC\u30DB\u30E9\u30FC\u30B2\u30FC\u30E0\u9B54\u5973\u306E\u5BB6\u306E\u518D\u73FE\u30EF\u30FC\u30EB\u30C9\u5C11\u5973\u3068\u306A\u3063\u3066\u9B54\u5973\u306E\u5BB6\u3092\u63A2\u7D22\u3057\u3088\u3046\uFF01",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_14b06a59-f43b-40b2-9083-718e1ed4c1cf",
+          "Name": "Playland Escape\u01C3",
+          "RecommendedCapacity": 3,
+          "Capacity": 6,
+          "Description": "It\u0027s Halloween and your parents have gone out for the night leaving you at your favorite Playcenter\u201A what could go wrong? An escape room \u2044 puzzle style horror game for players 3-6\n\u30BF\u30B0\uFF1A#game #halloween #horror #puzzle #escape #admin_spookality_2022 #admin_approved\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/10/14 - \u66F4\u65B0\u65E5 2023/12/09",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_6bb80885-9077-4334-b8f5-9e19dd7e911e",
+          "Name": "lonely-stay with me-",
+          "RecommendedCapacity": 2,
+          "Capacity": 4,
+          "Description": "\u30AF\u30EA\u30A2\u6642\u9593\u306F\u7D041\u6642\u9593\u3067\u3059\u3002\u4E00\u4EBA\u307E\u305F\u306F\u4E8C\u4EBA\u63A8\u5968\u3067\u3059\u3002\u30EB\u30FC\u30C8\u5206\u5C90\u304C\u3042\u308A\u307E\u3059\u3002\u65E5\u672C\u8A9E\u306E\u307F\u5BFE\u5FDC\n\u30BF\u30B0\uFF1A#escape #adventure #japan #horror #udon\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/09/02 - \u66F4\u65B0\u65E5 2022/06/20\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u30EB\u30FC\u30C8\u5206\u5C90\u3042\u308A",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_599a02f0-9357-437c-8872-9ede78238f41",
+          "Name": "Adi Mente",
+          "RecommendedCapacity": 5,
+          "Capacity": 10,
+          "Description": "The glory of old age and recollection\u2024 The last of the great days\u2024 Short map by Zippin and Lamb_\n\u30BF\u30B0\uFF1A#caretaker #spookality #psychological #ambience #admin_spookality_2022 #admin_approved\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/06/23 - \u66F4\u65B0\u65E5 2022/10/27",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_2c4df0ee-b61d-415c-86b0-c16270d11c00",
+          "Name": "F\u2024E\u2024A\u2024R\u2024S",
+          "RecommendedCapacity": 4,
+          "Capacity": 8,
+          "Description": "The Fear Endurance and Reaction Survey is a VRChat horror experience in which you\u0027ll have to go through a variety of questions and situations that will test your endurance and your reaction to FEAR - Playtime\u02F8 20-40 Minutes - Monthly Updates on hold for now\n\u30BF\u30B0\uFF1A#horror #spooky #survey #fears #spookality_2023_scary #admin_approved #admin_spookality_2023_scary #game #feature_focus_view_disabled #feature_props_disabled #feature_drones_disabled\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/09/25 - \u66F4\u65B0\u65E5 2025/07/19\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u307B\u307C\u30BD\u30ED\u63A2\u7D22\u3068\u306A\u308A\u307E\u3059",
           "Platform": {
             "PC": true,
             "Android": true,
