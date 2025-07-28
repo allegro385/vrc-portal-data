@@ -35,55 +35,6 @@
           ]
         }
       ]
-    },
-    {
-      "Category": "\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0",
-      "Worlds": [
-        {
-          "ID": "wrld_54d02373-c555-4d1d-9530-41cee6c20aa5",
-          "Name": "\u30A2\u30FC\u30C8\u30C7\u30A3\u30FC\u30E9\u30FC ArtDealer \uFF3BJP\uFF3D",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u30EF\u30FC\u30EB\u30C9\u3067\u3059\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/05/21 - \u66F4\u65B0\u65E5 2021/05/24",
-          "Platform": {
-            "PC": true,
-            "Android": true,
-            "iOS": false
-          },
-          "ReleaseStatus": "Public"
-        },
-        {
-          "ID": "wrld_3990ea7f-a852-4f6b-9c80-973f915ed1e8",
-          "Name": "\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u30EB\u30FC\u30E0 Board Game Room",
-          "RecommendedCapacity": 30,
-          "Capacity": 40,
-          "Description": "\u81EA\u4F5C\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u3068\u4F1D\u7D71\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u3092\u8A70\u3081\u5408\u308F\u305B\u305F\u30EF\u30FC\u30EB\u30C9 \u904A\u3079\u308B\u30B2\u30FC\u30E0\u30FB\u30AD\u30FC\u30DC\u30FC\u96C0 QWERTY \u30FBLiars Dice \u30FB\u30B7\u30E3\u30C3\u30C8\u30B6\u30B3\u30F3\u30D5\u30EA\u30AF\u30C8 \u30FB\u30B9\u30E9\u30AB\u30EB\u30BF \u30FBAmata\uFF08\u30C6\u30B9\u30C8\u4E2D\uFF09\u30FB\u30B0\u30E9\u30B9\u6D17\u3044\uFF08\u30C6\u30B9\u30C8\u4E2D\uFF09\n\u30BF\u30B0\uFF1A#boardgame\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/09/07 - \u66F4\u65B0\u65E5 2025/07/24\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u30DF\u30B1\u718A\u3055\u3093\u306E\u4F5C\u6210\u30EF\u30FC\u30EB\u30C9",
-          "Platform": {
-            "PC": true,
-            "Android": true,
-            "iOS": false
-          },
-          "ReleaseStatus": "Public"
-        }
-      ]
-    },
-    {
-      "Category": "\u30B2\u30FC\u30E0",
-      "Worlds": [
-        {
-          "ID": "wrld_e851ae68-784b-41f4-977a-7753d778fde9",
-          "Name": "Navy Blue",
-          "RecommendedCapacity": 24,
-          "Capacity": 32,
-          "Description": "\u7DCF\u54E1\u3001\u6226\u95D8\u914D\u7F6E\uFF01 \u30AB\u30B8\u30E5\u30A2\u30EB\u306B\u904A\u3079\u308B\u3001World of Warships\u306E\u3088\u3046\u306A\u8266\u968A\u6226\u30B2\u30FC\u30E0\u3067\u3059\u3002 Action stations\u01C3 Casual naval shooter game like World of Warships\u2024 \uFF3B24Players\u201A Desktop \u2044 Android compatible\u201A Special skins for Patreon\uFF3D\n\u30BF\u30B0\uFF1A#game #vehicle #shooting #ship #battle\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/03/31 - \u66F4\u65B0\u65E5 2025/06/26",
-          "Platform": {
-            "PC": true,
-            "Android": true,
-            "iOS": false
-          },
-          "ReleaseStatus": "Public"
-        }
-      ]
     }
   ],
   "Roles": [
