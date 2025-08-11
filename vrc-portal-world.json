@@ -292,6 +292,19 @@
           "ReleaseStatus": "Public"
         },
         {
+          "ID": "wrld_d9f02f32-a6bf-4934-9886-c8037a28ed36",
+          "Name": "\u3042\u3050\u308A\u3053\u3089",
+          "RecommendedCapacity": 6,
+          "Capacity": 32,
+          "Description": "\u30DC\u30FC\u30C9\u30B2\u30FC\u30E0\u3067\u3059 1\uFF5E6\u4EBA \u4EBA\u6570\u00D745\u5206 2024\u204409\u204414 E\u62E1\u5F35\u8FFD\u52A0\n\u30BF\u30B0\uFF1A#boardgame\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/07/19 - \u66F4\u65B0\u65E5 2024/10/03\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u6700\u9AD8\u5F97\u70B9\u306E\u8FB2\u5834\u3092\u4F5C\u308D\u3046\u3002\u5BB6\u65CF\u3092\u990A\u3046\u305F\u3081\u306E\u98DF\u6599\u3092\u5FD8\u308C\u305A\u306B\u3002",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_a68a2924-fb2c-4860-adef-d687853e4b79",
           "Name": "\u3059\u30FC\u306F\u30FC\u5F0F\u3054\u3044\u305F",
           "RecommendedCapacity": 24,
@@ -476,7 +489,7 @@
           "Name": "\u30E6\u30FC\u30ED\u30A2\u306E\u96A0\u308C\u5BB6 Euroa\u0027s Hideout",
           "RecommendedCapacity": 20,
           "Capacity": 40,
-          "Description": "\u697D\u3057\u3044\u30EF\u30FC\u30EB\u30C9\u30AE\u30DF\u30C3\u30AF\u304C\u306A\u3093\u3068100\u7A2E\u985E\uFF01 \u4E00\u4EBA\u3067\u3086\u3063\u304F\u308A\u904A\u3093\u3060\u308A\u3001\u307F\u3093\u306A\u3068\u30EF\u30A4\u30EF\u30A4\u904A\u3093\u3060\u308A\uFF01 \u521D\u5FC3\u8005\u3055\u3093\u3067\u3082\u904A\u3073\u3084\u3059\u3044\u30AE\u30DF\u30C3\u30AF\u3092\u305F\u304F\u3055\u3093\u7528\u610F\u3057\u3066\u307E\u3059\uFF01\u3044\u3064\u3067\u3082\u904A\u3073\u306B\u6765\u3066\u304F\u3060\u3055\u3044\uFF01\n\u30BF\u30B0\uFF1A#japan #game #quest #udon #jp\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/06/07 - \u66F4\u65B0\u65E5 2025/08/07",
+          "Description": "\u697D\u3057\u3044\u30EF\u30FC\u30EB\u30C9\u30AE\u30DF\u30C3\u30AF\u304C\u306A\u3093\u3068100\u7A2E\u985E\uFF01 \u4E00\u4EBA\u3067\u3086\u3063\u304F\u308A\u904A\u3093\u3060\u308A\u3001\u307F\u3093\u306A\u3068\u30EF\u30A4\u30EF\u30A4\u904A\u3093\u3060\u308A\uFF01 \u521D\u5FC3\u8005\u3055\u3093\u3067\u3082\u904A\u3073\u3084\u3059\u3044\u30AE\u30DF\u30C3\u30AF\u3092\u305F\u304F\u3055\u3093\u7528\u610F\u3057\u3066\u307E\u3059\uFF01\u3044\u3064\u3067\u3082\u904A\u3073\u306B\u6765\u3066\u304F\u3060\u3055\u3044\uFF01\n\u30BF\u30B0\uFF1A#japan #game #quest #udon #jp\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/06/07 - \u66F4\u65B0\u65E5 2025/08/09",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -767,7 +780,7 @@
           "Name": "SlashCo VR",
           "RecommendedCapacity": 8,
           "Capacity": 8,
-          "Description": "8\u20445\u204425 - v0\u20248\u202402\uFF5C A Survival Stealth Horror Co-op game\u2024 WARNING\u02F8 Contains loud sounds\u201A flashing images and profanity\u2024 VRC Group \u227B SLASH\u20243139\n\u30BF\u30B0\uFF1A#game #horror #udon #co-op #survival\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/12/09 - \u66F4\u65B0\u65E5 2025/08/08",
+          "Description": "8\u20445\u204425 - v0\u20248\u202402\uFF5C A Survival Stealth Horror Co-op game\u2024 WARNING\u02F8 Contains loud sounds\u201A flashing images and profanity\u2024 VRC Group \u227B SLASH\u20243139\n\u30BF\u30B0\uFF1A#game #horror #udon #co-op #survival\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/12/09 - \u66F4\u65B0\u65E5 2025/08/10",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -780,7 +793,7 @@
           "Name": "PACX",
           "RecommendedCapacity": 6,
           "Capacity": 6,
-          "Description": "\uFF3BA SURVIVAL HORROR GAME WHERE YOU GET TO HUNT AND BE HUNTED BY A FAMILIAR YELLOW CIRCLE\u2024\u2024\u2024\uFF3D pac_files\u2024exe was a failed experiment if I remember correctly\u2024 some weird software meant to break down malicious code\u2024 It got stolen from my lab on July 06\u201A 1983\u201A but ended up getting lost during a chase\u2024 Then this small-time developer found the drive with the source code laying around in a garage sale\u201A figured it was just some quirky program\u201A and decided to pass it off as a video game to sell to a local arcade in Miami\u2024\n\u30BF\u30B0\uFF1A#game #horror #guns #udon #packman\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/07/08 - \u66F4\u65B0\u65E5 2025/08/09",
+          "Description": "PACX is a Survival-Horror Shooter twist on the arcade classic\u201A Pac-Man\u2024 Collect all Orbs while avoiding terrifying creatures lurking around in the darkness of a digital maze\u2024 But you\u0027re not all hopeless\u201A with Power Orbs you can RAGE and turn the tables to banish them to the shadow realm\u2024\u2024\u2024 for a brief moment\n\u30BF\u30B0\uFF1A#game #horror #shooter #survival #udon\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/07/08 - \u66F4\u65B0\u65E5 2025/08/09",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -898,6 +911,19 @@
           "ReleaseStatus": "Public"
         },
         {
+          "ID": "wrld_62d9de2d-927a-4c34-95dc-af432d433f3e",
+          "Name": "Floor Smasher\u01C3 \uFF08Game\uFF09",
+          "RecommendedCapacity": 20,
+          "Capacity": 80,
+          "Description": "Throw the bullet to break the tiles to let other fall and be the last survivor\u01C3 2025\u202402\u202421 Add multi language support and make sure working with latest VRChat\u2024\n\u30BF\u30B0\uFF1A#game #spleef #shooting\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/11/20 - \u66F4\u65B0\u65E5 2025/03/06\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u5E8A\u9762\u306E\u30D1\u30CD\u30EB\u3092\u843D\u3068\u3057\u3066\u5BFE\u6226\u76F8\u624B\u3092\u843D\u3068\u3059\u30B2\u30FC\u30E0",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_a5cd379c-1b11-46d4-bfa6-5f99ee487ee0",
           "Name": "R5 Xross Drive",
           "RecommendedCapacity": 20,
@@ -981,6 +1007,19 @@
       "Category": "\u30B2\u30FC\u30E0\u3010\u305D\u306E\u4ED6\u3011",
       "Worlds": [
         {
+          "ID": "wrld_c077aa49-4820-472d-ace5-c11368f1e3f4",
+          "Name": "Project Aincrad 1\u20246\u20243",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "Actively maintained recreation of Sword Art Online in VRChat\u201A made by the ArgusVRC team\u2024\n\u30BF\u30B0\uFF1A#rpg #mmo #game #sao #persistence\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/07/27 - \u66F4\u65B0\u65E5 2025/07/16",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_61df6fc2-d6e8-4a62-910b-c2558731c4bb",
           "Name": "Comfy Puzzles - Jigsaw \uFF06 Chill",
           "RecommendedCapacity": 24,
@@ -1012,6 +1051,19 @@
           "RecommendedCapacity": 12,
           "Capacity": 24,
           "Description": "Guess the price of that stuff\u01C3 Game for any number of players\u01C3\n\u30BF\u30B0\uFF1A#udon #game\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/11/07 - \u66F4\u65B0\u65E5 2024/05/04",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_25e938a8-3b23-4d6b-a9c2-10e28cb4970b",
+          "Name": "Bullet Time Agent",
+          "RecommendedCapacity": 6,
+          "Capacity": 10,
+          "Description": "An immersive action-adventure with over 8 hours of gameplay\u2024 Take on intense bullet hell combat\u201A punch and fight robots\u201A and tackle platforming challengesall powered by time control abilities\u2024 Solve intricate puzzles and face epic boss battles that test your skills\u2024 Save your progress to play at your own pace\u201A and unlock thrilling New Game\uFF0B modes for even more action\u2024 Favorite this world and join the fight\u01C3\n\u30BF\u30B0\uFF1A#pve #puzzle #adventure #action #robot\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/11/19 - \u66F4\u65B0\u65E5 2025/06/14",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -1146,7 +1198,7 @@
           "Name": "\u53CC\u30C4\u93E1\u6E56\u5916\u5468\u9053-ChikuwaVehicleSystem2-",
           "RecommendedCapacity": 15,
           "Capacity": 30,
-          "Description": "\u01C3\u97F3\u91CF\u6CE8\u610F-Volume warning-\u01C3 1\u5468\u7D048km\u306E\u5E45\u306E\u5E83\u3044\u30AA\u30EA\u30B8\u30CA\u30EB\u30EC\u30A4\u30A2\u30A6\u30C8\u306E\u6E56\u5916\u5468\u9053\u3067\u3059\u3002 \u3044\u3064\u3082\u306E\u30C9\u30EA\u30D5\u30C8\u8ECA\u306E\u307B\u304B\u3001\u30B0\u30EA\u30C3\u30D7\u30AB\u30FC\u3084\u521D\u5FC3\u8005\u3067\u3082\u4E57\u308A\u3084\u3059\u3044\u3086\u3063\u305F\u308A\u30C9\u30E9\u30A4\u30D6\u306E\u3067\u304D\u308B\u8ECA\u3001\u304A\u307E\u3051\u306B\u30D0\u30A4\u30AF\u3082\u3002 2025\u204408\u204405 \u30A2\u30F3\u30C1\u30E9\u30B0\u8D77\u52D5\u6642\u306B\u9ED2\u7159\u304C\u51FA\u3063\u3071\u306A\u3057\u306B\u306A\u308B\u554F\u984C\u306E\u4FEE\u6B63\u30D1\u30C3\u30C1\u3042\u3066\u3001N2X\u306E\u53F3\u30D5\u30ED\u30F3\u30C8\u30BF\u30A4\u30E4\u306E\u8868\u793A\u304C\u304A\u304B\u3057\u304B\u3063\u305F\u554F\u984C\u306E\u4FEE\u6B63\u3002\n\u30BF\u30B0\uFF1A#drift #drive #chill #touge #car\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/09/01 - \u66F4\u65B0\u65E5 2025/08/04",
+          "Description": "\u01C3\u97F3\u91CF\u6CE8\u610F-Volume warning-\u01C3 1\u5468\u7D048km\u306E\u5E45\u306E\u5E83\u3044\u30AA\u30EA\u30B8\u30CA\u30EB\u30EC\u30A4\u30A2\u30A6\u30C8\u306E\u6E56\u5916\u5468\u9053\u3067\u3059\u3002 \u3044\u3064\u3082\u306E\u30C9\u30EA\u30D5\u30C8\u8ECA\u306E\u307B\u304B\u3001\u30B0\u30EA\u30C3\u30D7\u30AB\u30FC\u3084\u521D\u5FC3\u8005\u3067\u3082\u4E57\u308A\u3084\u3059\u3044\u3086\u3063\u305F\u308A\u30C9\u30E9\u30A4\u30D6\u306E\u3067\u304D\u308B\u8ECA\u3001\u304A\u307E\u3051\u306B\u30D0\u30A4\u30AF\u3082\u3002 2025\u204408\u204410 Drift\u30AB\u30C6\u30B4\u30EA\u306BLowruruL35\u3092\u8FFD\u52A0\u3001\u30BF\u30A4\u30E0\u8868\u793A\u4F4D\u7F6E\u306E\u5FAE\u8ABF\u6574\u3002 2025\u204408\u204411 LowruruL35\u306E\u30E1\u30FC\u30BF\u30FC\u30D1\u30CD\u30EB\u304C\u30D8\u30C3\u30C9\u30E9\u30A4\u30C8\u6D88\u706F\u6642\u306B\u3082\u5149\u3063\u3066\u3044\u305F\u306E\u3092\u4FEE\u6B63\u3001KC10SN\u306E\u30DB\u30A4\u30FC\u30EB\u30E2\u30C7\u30EB\u5909\u66F4\u3002\n\u30BF\u30B0\uFF1A#drift #drive #chill #touge #car\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/09/01 - \u66F4\u65B0\u65E5 2025/08/10",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -1428,6 +1480,19 @@
           "RecommendedCapacity": 4,
           "Capacity": 8,
           "Description": "You have been tasked with discovering what is happening in an old house\u2024\u2024 15-20 minute horror map\u2024 1-4 players \uFF08might work with more\uFF09\n\u30BF\u30B0\uFF1A#horror #ghost #game #spooky\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/12/09 - \u66F4\u65B0\u65E5 2024/11/13\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u4F55\u304B\u304C\u6F5C\u3080\u53E4\u3073\u305F\u5BB6\u3092\u63A2\u7D22\u3059\u308B\u30B7\u30E7\u30FC\u30C8\u30DB\u30E9\u30FC\u30EF\u30FC\u30EB\u30C9\u3002\u30E1\u30E2\u3092\u8AAD\u307F\u3001\u5BB6\u306E\u4E2D\u3092\u63A2\u7D22\u3057\u3066\u6700\u6DF1\u90E8\u3078\u3068\u9032\u3082\u3046",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_47237d61-4fd9-4066-bf91-41c482a67f0a",
+          "Name": "The Devouring",
+          "RecommendedCapacity": 4,
+          "Capacity": 4,
+          "Description": "1-4 players\u2024 A 5-6 hour horror game by Lakuza\u201A Cyanlaser\u201A Fionna \uFF06 Legends\u2024 A road trip gone wrong\u201A you find yourself inside a mysterious manor\u2024 Do you investigate\uFF1FMade without Udon \uFF06 released in 2020\u2024 \uFF08progress syncs with late joiners too\uFF09 2024 Message\u02F8 World is built using SDK2 and as a result the stability of this world has degraded over the years with vrchat updates\u201A so the experience will have bugs\u2044glitches\u2024 World is completable but a certain synced enemy may glitch and teleport around in multiplayer\u201A making life difficult\u2024 Also when placing gems in the door\u201A don\u0027t place them at the same time as the world might glitch out and fail to open the door\u2024\n\u30BF\u30B0\uFF1A#game #horror #4poneys #gameworld #adventures\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2020/08/13 - \u66F4\u65B0\u65E5 2025/06/14\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u30DB\u30E9\u30FC\u7CFB\u30A2\u30C9\u30D9\u30F3\u30C1\u30E3\u30FC\u30EF\u30FC\u30EB\u30C9\u3002\u6D0B\u9928\u306E\u4E2D\u3092\u5F98\u5F8A\u3059\u308B\u5F71\u304B\u3089\u96A0\u308C\u306A\u304C\u3089\u8B0E\u3092\u89E3\u3044\u3066\u8131\u51FA\u3057\u3088\u3046\u3002\u591A\u7A2E\u591A\u69D8\u306A\u7F60\u304C\u4ED5\u639B\u3051\u3089\u308C\u3066\u304A\u308A\u5341\u5206\u306B\u697D\u3057\u3081\u308B\u3067\u3057\u3087\u3046\u3002",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -1883,6 +1948,19 @@
           "ReleaseStatus": "Public"
         },
         {
+          "ID": "wrld_4045ad56-51d7-4e45-9a34-aeeefa5a1bba",
+          "Name": "FULLMETAL NOAH\u0027S ARK",
+          "RecommendedCapacity": 10,
+          "Capacity": 20,
+          "Description": "2023-05-22 v1\u202400 Release\u2024\n\u30BF\u30B0\uFF1A#udon #scifi #space #japan #fantasy\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/03/06 - \u66F4\u65B0\u65E5 2023/05/22",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_d6a855ff-8280-4977-9a21-26a594da53aa",
           "Name": "\u6708\u3068\u661F\u306E\u58F0 - Moon And Star Voice",
           "RecommendedCapacity": 5,
@@ -2264,13 +2342,16 @@
           "Name": "CyanKey",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "CyanKey is an example escape room using CyanTriggers\u2024 Download the project on my Patreon\u2024 patreon\u2024com\u2044CyanLaser\n\u30BF\u30B0\uFF1A#puzzle #escape #cyantrigger\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/06/19 - \u66F4\u65B0\u65E5 2021/08/06",
+          "Description": "CyanKey is an example escape room using CyanTriggers\u2024 Download the project on my Patreon\u2024 patreon\u2024com\u2044CyanLaser\n\u30BF\u30B0\uFF1A#puzzle #escape #cyantrigger\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/06/19 - \u66F4\u65B0\u65E5 2025/08/10",
           "Platform": {
             "PC": true,
             "Android": false,
             "iOS": false
           },
-          "ReleaseStatus": "Public"
+          "ReleaseStatus": "Private",
+          "PermittedRoles": [
+            "\u30DE\u30B9\u30BF\u30FC"
+          ]
         },
         {
           "ID": "wrld_813df8e6-4211-4f78-9b22-791df9d04c6a",
@@ -2590,6 +2671,19 @@
           "ReleaseStatus": "Public"
         },
         {
+          "ID": "wrld_efb40307-2da3-41c0-a6ea-9a58cdad0cee",
+          "Name": "\u685C\u8272\u306E\u661F\u306E\u5922 -Cherry Star Dream-",
+          "RecommendedCapacity": 32,
+          "Capacity": 32,
+          "Description": "2023\u5E74\u306B\u516C\u958B\u3057\u305F\u30EF\u30FC\u30EB\u30C9\u300C\u9752\u3044\u661F\u306E\u5922\u300D\u306E\u30C7\u30FC\u30BF\u304C\u5FA9\u5E30\u5B8C\u4E86\u3057\u307E\u3057\u305F\u306E\u3067\u3001\u4ECA\u56DE\u306F\u8272\u3092\u96F0\u56F2\u6C17\u3092\u5909\u3048\u3066\u685C\u30D0\u30FC\u30B8\u30E7\u30F3\u306B\u4F5C\u308A\u307E\u3057\u305F\uFF01\n\u30BF\u30B0\uFF1A#sakura #ocean #relaxing #sleep #comfy\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/04/18 - \u66F4\u65B0\u65E5 2025/05/25",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_2e125dcf-5291-40bd-929a-e669e28bfcc7",
           "Name": "withered sing",
           "RecommendedCapacity": 80,
@@ -2673,6 +2767,19 @@
           "ReleaseStatus": "Public"
         },
         {
+          "ID": "wrld_1163af44-e468-40b5-9855-88a69279ac3e",
+          "Name": "\u53F2\u4E0A\u6700\u9AD8\u306E\u590F\u4F11\u307F",
+          "RecommendedCapacity": 64,
+          "Capacity": 64,
+          "Description": "This world is a reproduction of the painting The Best Summer Vacation Ever by the artist Tokyo Genso\u2024\n\u30BF\u30B0\uFF1A#summer #vacation #beach #underwater #chill\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/10/14 - \u66F4\u65B0\u65E5 2024/01/14\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u300C\u6771\u4EAC\u5E7B\u60F3\u300D\u30B7\u30EA\u30FC\u30BA\u306E\u30A4\u30E9\u30B9\u30C8\u300C\u53F2\u4E0A\u6700\u9AD8\u306E\u590F\u4F11\u307F\u300D\u306E\u518D\u73FE\u30EF\u30FC\u30EB\u30C9\u3002\u7D42\u672B\u5F8C\u4E16\u754C\u306E\u30B9\u30AB\u30A4\u30C4\u30EA\u30FC\u306E\u4E0A\u3092\u30E2\u30C1\u30FC\u30D5\u306B\u3057\u305F\u7BB1\u5EAD\u98A8\u306E\u590F\u306E\u5225\u8358\u3001\u7D20\u6734\u306A\u6D77\u306E\u5BB6\u3068\u7DBA\u9E97\u306A\u6C34\u69FD\u306E\u666F\u8272\u304C\u60B2\u3057\u304F\u3082\u7F8E\u3057\u3044\u4E16\u754C\u3067\u3059\u3002",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_ec744f53-96c2-4aef-a5b6-391d8c9d5cf3",
           "Name": "\u590F\u7A7A\u306E\u4F11\u606F\u5730 -Summer Bluesky Rest-",
           "RecommendedCapacity": 40,
@@ -2730,6 +2837,19 @@
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "\u5C0F\u3055\u306A\u590F\u3001\u3044\u304B\u304C\u3067\u3059\u304B\uFF1F\n\u30BF\u30B0\uFF1A#summer\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/06/28 - \u66F4\u65B0\u65E5 2025/07/05",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_f8dd8a43-165f-4a0a-9c0e-5a2ab75d64e6",
+          "Name": "\u4FDD\u8B77\u533A\u30AF\u30BF\u7802\u4E18",
+          "RecommendedCapacity": 16,
+          "Capacity": 40,
+          "Description": "\u6C34\u8FBA\u306E\u4EBA\u5916\u30D0\u30BF\u30FC\u96C6\u4F1A\u4F1A\u5834\u305D\u306E\uFF13 Dunaterra Exstincta\uFF08\u30C9\u30A5\u30CA\u30C6\u30E9\u30FB\u30A8\u30AF\u30B9\u30C6\u30A3\u30F3\u30AF\u30BF\uFF09\u300C\u3059\u3079\u3066\u304C\u6EC5\u3073\u305F\u5834\u6240\u300D \u30FBnmSeashore\u4F7F\u7528\u30EF\u30FC\u30EB\u30C9\n\u30BF\u30B0\uFF1A#sea #summer #ocean #swimming #nmSeashore\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/07/27 - \u66F4\u65B0\u65E5 2025/08/09",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -4111,6 +4231,19 @@
       "Category": "chill",
       "Worlds": [
         {
+          "ID": "wrld_3f6d50bd-cc9b-45e0-8303-9ba63f72b323",
+          "Name": "Aqua To The Moon",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "One day if the sky and the sea will connect\u2024\u2024\u2024\u2024\u2024\u2024\n\u30BF\u30B0\uFF1A#room #night #moon #sea\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/04/12 - \u66F4\u65B0\u65E5 2024/04/14",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_e74e8e40-ac2a-417a-adba-28352a18f566",
           "Name": "\u5BB5\u5BAE\u306B\u63FA\u8569\u3044-yoimiya-",
           "RecommendedCapacity": 16,
@@ -4176,6 +4309,19 @@
           "ReleaseStatus": "Public"
         },
         {
+          "ID": "wrld_5ce10219-2a08-41ad-b52e-9d98c18617ea",
+          "Name": "HARBOR shina-shina \uFF08Udon\uFF09",
+          "RecommendedCapacity": 10,
+          "Capacity": 20,
+          "Description": "HARBOR shina-shina\n\u30BF\u30B0\uFF1A#lounge #bridge #highway #sea #night\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/09/04 - \u66F4\u65B0\u65E5 2022/07/03\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u30D0\u30B9\u306B\u4E57\u3063\u3066\u76EE\u7684\u5730\u307E\u3067\u3001\u76EE\u7684\u5730\u306B\u964D\u308A\u308B\u3068\u30BF\u30EF\u30FC\u304C\u3042\u308B\u30EF\u30FC\u30EB\u30C9\u3002",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_05b3bfdf-f77b-4220-8b02-124799bad999",
           "Name": "\u1F08\u03BD\u03AC\u03BC\u03BD\u03B7\u03C3\u03B9\u03C2",
           "RecommendedCapacity": 16,
@@ -4193,7 +4339,7 @@
           "Name": "Thad Magic Mirrors - \u30DE\u30B8\u30AB\u30EB\u93E1",
           "RecommendedCapacity": 28,
           "Capacity": 80,
-          "Description": "Very comfy world with interactive mirrors\u201A interactive pillows \uFF06 more\u2024 Can you find the hidden room?\n\u30BF\u30B0\uFF1A#mirrors #shader #relaxing #comfy #cozy\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/06/12 - \u66F4\u65B0\u65E5 2025/07/04\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u3075\u304B\u3075\u304B\u306E\u304A\u3075\u3068\u3093\u3042\u308A\u307E\u3059\u3002",
+          "Description": "Very comfy world with interactive mirrors\u201A interactive pillows \uFF06 more\u2024 Can you find the hidden room?\n\u30BF\u30B0\uFF1A#mirrors #shader #relaxing #comfy #cozy\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/06/12 - \u66F4\u65B0\u65E5 2025/08/10\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u3075\u304B\u3075\u304B\u306E\u304A\u3075\u3068\u3093\u3042\u308A\u307E\u3059\u3002",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -4215,11 +4361,37 @@
           "ReleaseStatus": "Public"
         },
         {
+          "ID": "wrld_7afbc106-7e03-4339-b7b4-fdd375bd5e98",
+          "Name": "Starry Ocean",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "\u661F\u7C92\u304C\u964D\u308B\u591C - \u4F5C\u66F2\u8005\u69D8 \u2044 ISAo \u69D8 URL\uFF1Ahttps\u02F8\u2044\u2044airyluvs\u2024com\n\u30BF\u30B0\uFF1A#ocean #starry\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/04/12 - \u66F4\u65B0\u65E5 2025/02/28",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_0c6dd31c-21d5-48c3-806f-45a4b52c2b2f",
           "Name": "Cloudream",
           "RecommendedCapacity": 10,
           "Capacity": 20,
           "Description": "\u304A\u5199\u771F\u7528\u30EF\u30FC\u30EB\u30C9\u3002Warning \u02F8 High GPU Load\u2024 BGM\u02F8Moon - \u7518\u8336\u306E\u97F3\u697D\u5DE5\u623F\n\u30BF\u30B0\uFF1A#cloud #sky\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/02/13 - \u66F4\u65B0\u65E5 2022/09/17",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_74682eb7-26a6-4eb6-9393-5025c22990e1",
+          "Name": "\u3079\u308A\u306E\u305F\u304D",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u52D5\u4F5C\u304C\u91CD\u3044\u5834\u5408\u306F\u5165\u53E3\u306E\u30DF\u30E9\u30FC\u3092OFF\u306B\u3057\u3066\u4E0B\u3055\u3044\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/01/31 - \u66F4\u65B0\u65E5 2025/02/15",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -4259,6 +4431,19 @@
           "RecommendedCapacity": 4,
           "Capacity": 8,
           "Description": "V\u7761\u7528\u306B\u4F5C\u6210\u3057\u305F\u90E8\u5C4B2\uFF5C YamaPlayer \uFF5C QvPen \uFF5C JoinLeaveLog \uFF5C RBS Sleep Kit 2 \uFF5C FlipCamera\uFF5C 5\u204412 \u5C11\u3057\u8ABF\u6574\u3057\u307E\u3057\u305F\n\u30BF\u30B0\uFF1A#chill #sleep #pens #bed\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/05/10 - \u66F4\u65B0\u65E5 2025/06/13",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_bdca0295-d8d5-4eb6-9535-919e1fb7686e",
+          "Name": "\u304B\u3054\u306E\u306A\u304B\u3002",
+          "RecommendedCapacity": 3,
+          "Capacity": 8,
+          "Description": "\u6708\u660E\u304B\u308A\u304C\u7167\u3089\u3059\u5927\u304D\u306A\u9CE5\u7C60 YamaPlayer \uFF5C QvPen \uFF5C JoinLeaveLog \uFF5C RBS Sleep Kit 2 \uFF5C FlipCamera \uFF5C\n\u30BF\u30B0\uFF1A#sleep #chill #birdcage\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/08/07 - \u66F4\u65B0\u65E5 2025/08/10",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -4415,6 +4600,19 @@
           "ReleaseStatus": "Public"
         },
         {
+          "ID": "wrld_c12c47e0-97eb-4726-91bb-01580b92f7fe",
+          "Name": "Life needs sleep",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "VR\u7761\u7720\u304C\u3067\u304D\u308B\u30EA\u30E9\u30AF\u30BC\u30FC\u30B7\u30E7\u30F3\u30EB\u30FC\u30E0\u3067\u3059\u3002\u96A0\u3057\u90E8\u5C4B\u3082\u3042\u308B\u306E\u3067\u63A2\u3057\u3066\u307F\u3066\u306D\u3002This is a relaxation room where you can have VR sleep\u2024 There is also a hidden room\u201A so please look for it\u2024\n\u30BF\u30B0\uFF1A#stars #comfy #sleep #universe #chill\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/02/08 - \u66F4\u65B0\u65E5 2025/01/22",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_7769823d-efeb-415c-8570-2b22942fd662",
           "Name": "Trance\u0027s Hotel with NPCs",
           "RecommendedCapacity": 16,
@@ -4475,6 +4673,19 @@
           "RecommendedCapacity": 12,
           "Capacity": 22,
           "Description": "\u6D77\u306E\u5E95\u3067\u3072\u3063\u305D\u308A\u3068\u66AE\u3089\u3059\u9B54\u5973\u306E\u96A0\u308C\u5BB6\u3002\u9759\u304B\u3067\u8AB0\u306B\u3082\u90AA\u9B54\u3055\u308C\u306A\u3044\u5FC3\u843D\u3061\u7740\u304F\u7A7A\u9593\u3067\u6C38\u9060\u306B\u3002\u2024\u2024\u2024VideoPlayer\u201AQVPen\u201AImagePad\u201ANightMode\u5B8C\u5099\u3002\u96D1\u8AC7\u5834\u6240\u3084VR\u7761\u7720\u7528\u306B\u3069\u3046\u305E\u30022\u968E\u3067\u306FAvaterNow\u3067\u30A2\u30D0\u30BF\u30FC\u8A66\u7740\u3082\u51FA\u6765\u307E\u3059\u3002BaseModel\u02F8NewRarity\u69D8\u3010VRC\u30EF\u30FC\u30EB\u30C9\u3011\u4E2D\u4E16\u30D5\u30A1\u30F3\u30BF\u30B8\u30FC\u30CF\u30A6\u30B9\n\u30BF\u30B0\uFF1A#sleep #chill #fantasy\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/01/29 - \u66F4\u65B0\u65E5 2025/05/20",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_236a8729-930b-46e1-ab04-1eba07f8d105",
+          "Name": "FOG ROOM-\u30B1\u30BB\u30C9\u306E\u9727\u306E\u90E8\u5C4B-",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "227\u4F5C\u76EE\u306F\u9727\u306B\u5305\u307E\u308C\u305F\u90E8\u5C4B\u30EF\u30FC\u30EB\u30C9\u3002\u9727\u306E\u4E2D\u3067\u3042\u306A\u305F\u306F\u4F55\u3092\u898B\u307E\u3059\u304B\uFF1FThe 227th world is a room shrouded in fog\u2024 What do you see in the fog?\n\u30BF\u30B0\uFF1A#CHESED #Android #chill #home #Relax\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/04/09 - \u66F4\u65B0\u65E5 2025/04/28",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -4978,6 +5189,19 @@
             "iOS": false
           },
           "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_a5d717fa-d820-4085-afe4-b6822cebcff6",
+          "Name": "Frost Palace",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u30B9\u30C6\u30C3\u30AD\u306F\u81EA\u4F5C\u3001\u306C\u3044\u3050\u308B\u307F\u306F\u3044\u3064\u3082\u306E\u53CB\u4EBA\u306E\u3055\u306D\u3078\u3073\u3068\u30E6\u30AE\u30C6\u30A3\u3067\u3059\u3002\u4ECA\u56DE\u306F\u51CD\u3063\u3066\u307E\u3059\u3002 \u8CFC\u5165\u3057\u305F\u4E0A\u3067\u304A\u501F\u308A\u3057\u305F\u3082\u306E \uFF1A \u3010VRChat\u5411\u3051\u30EF\u30FC\u30EB\u30C9\u3011\u84BC\u78A7\u306E\u6C37\u6BBFAether Frost https\u02F8\u2044\u2044daizerokenkyujyo\u2024booth\u2024pm\u2044items\u20447220389 \u3010QvPen\u5DEE\u3057\u66FF\u3048\u30E2\u30C7\u30EB\u3011\u30CF\u30FC\u30D0\u30EA\u30A6\u30E0\u4E07\u5E74\u7B46 Herbarium Fountain penhttps\u02F8\u2044\u2044sweethome\u2024booth\u2024pm\u2044items\u20447235921 \u7121\u6599\u3067\u304A\u501F\u308A\u3057\u305F\u3082\u306E\uFF1A QvPen https\u02F8\u2044\u204465536\u2024booth\u2024pm\u2044items\u20441555789 Crystal Flower \uFF3BFree\uFF3D https\u02F8\u2044\u2044booth\u2024pm\u2044ja\u2044items\u20446543012 VizVid https\u02F8\u2044\u2044xtl\u2024booth\u2024pm\u2044items\u20445056077 VRCPlayersOnlyMirror https\u02F8\u2044\u2044booth\u2024pm\u2044ja\u2044items\u20442685621\n\u30BF\u30B0\uFF1A#cold #chill #sleep #palace #frost\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/07/31 - \u66F4\u65B0\u65E5 2025/08/08\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u30B3\u30ED\u30CB\u30FC\u3092\u8ABF\u67FB\u3057\u3066\u7269\u8A9E\u3092\u9032\u3081\u3066\u3044\u304F\u30EF\u30FC\u30EB\u30C9\u3002\u30B3\u30FC\u30EB\u30C9\u30B9\u30EA\u30FC\u30D7\u304B\u3089\u76EE\u899A\u3081\u305F\u6240\u304B\u3089\u8A71\u304C\u59CB\u307E\u308B",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
         }
       ]
     },
@@ -5158,7 +5382,7 @@
           "Name": "Hiroshima Genbaku Dome",
           "RecommendedCapacity": 16,
           "Capacity": 32,
-          "Description": "Hiroshima Atomic Bomb Dome\u2024 Photogrammetiry and 3DGS \uFF083D Gaussian Splatting\uFF09 \u2044 \u660E\u65E5\u30012025\u5E748\u67086\u65E5\u3067\u5E83\u5CF6\u306E\u88AB\u7206\u304B\u308980\u5E74\u3067\u3059\u306D\u3002\u3053\u308C\u3092\u6A5F\u306B\uFF62\u539F\u7206\u30C9\u30FC\u30E0VR\uFF63\u3092\u5236\u4F5C\u3001\u30EF\u30FC\u30EB\u30C9\u516C\u958B\u3057\u307E\u3057\u305F\u3002 \u539F\u7206\u30C9\u30FC\u30E0\u3092\u30D5\u30A9\u30C8\u30B0\u30E9\u30E1\u30C8\u30EA\u30683DGS \uFF083D Gaussian Splatting \u30AC\u30A6\u30B7\u30A2\u30F3\u30B9\u30D7\u30E9\u30C3\u30C6\u30A3\u30F3\u30B0\uFF09 \u3092\u7528\u3044\u3066\u5199\u5B9F\u7684\u306B\u518D\u73FE\u3057\u305F\u7A7A\u9593\u3067\u3059\u3002 \u30A8\u30F3\u30C8\u30E9\u30F3\u30B9\u30D1\u30FC\u30C8\u3067\u306F\u539F\u7206\u306B\u3064\u3044\u3066\u3082\u5B66\u3079\u308B\u5185\u5BB9\u306B\u306A\u3063\u3066\u307E\u3059\u3002\n\u30BF\u30B0\uFF1A#3DGS #Photogrammetry #Japan #3DGaussianSplatting #DigitalTwin\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/08/02 - \u66F4\u65B0\u65E5 2025/08/08",
+          "Description": "Hiroshima Atomic Bomb Dome\u2024 Photogrammetiry and 3DGS \uFF083D Gaussian Splatting\uFF09 \u2044 \u660E\u65E5\u30012025\u5E748\u67086\u65E5\u3067\u5E83\u5CF6\u306E\u88AB\u7206\u304B\u308980\u5E74\u3067\u3059\u306D\u3002\u3053\u308C\u3092\u6A5F\u306B\uFF62\u539F\u7206\u30C9\u30FC\u30E0VR\uFF63\u3092\u5236\u4F5C\u3001\u30EF\u30FC\u30EB\u30C9\u516C\u958B\u3057\u307E\u3057\u305F\u3002 \u539F\u7206\u30C9\u30FC\u30E0\u3092\u30D5\u30A9\u30C8\u30B0\u30E9\u30E1\u30C8\u30EA\u30683DGS \uFF083D Gaussian Splatting \u30AC\u30A6\u30B7\u30A2\u30F3\u30B9\u30D7\u30E9\u30C3\u30C6\u30A3\u30F3\u30B0\uFF09 \u3092\u7528\u3044\u3066\u5199\u5B9F\u7684\u306B\u518D\u73FE\u3057\u305F\u7A7A\u9593\u3067\u3059\u3002 \u30A8\u30F3\u30C8\u30E9\u30F3\u30B9\u30D1\u30FC\u30C8\u3067\u306F\u539F\u7206\u306B\u3064\u3044\u3066\u3082\u5B66\u3079\u308B\u5185\u5BB9\u306B\u306A\u3063\u3066\u307E\u3059\u3002\u30E1\u30A4\u30AD\u30F3\u30B0\u3084Arrival\u2024Space\u7248\u306B\u3064\u3044\u3066\u306F\u30D6\u30ED\u30B0\u306B\u307E\u3068\u3081\u307E\u3057\u305F\u3002https\u02F8\u2044\u2044lilea\u2024net\u2044lab\u2044hiroshima-genbaku-dome\u2044\n\u30BF\u30B0\uFF1A#3DGS #Photogrammetry #Japan #3DGaussianSplatting #DigitalTwin\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/08/02 - \u66F4\u65B0\u65E5 2025/08/10",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -5177,6 +5401,19 @@
           "RecommendedCapacity": 80,
           "Capacity": 80,
           "Description": "\u3044\u3064\u3082\u5143\u6C17\u3067\u304B\u308F\u3044\u3044\u30DB\u30E9\u30A4\u30BA\u3061\u3083\u3093\u306E\u5199\u771F\u304C\u5C55\u793A\u3055\u308C\u3066\u3044\u308B\u30AE\u30E3\u30E9\u30EA\u30FC\u30EF\u30FC\u30EB\u30C9\u3067\u3059\uFF01 \u5DE8\u5927\u306A\u30DB\u30E9\u30A4\u30BA\u3061\u3083\u3093\u3068500\u679A\u4EE5\u4E0A\u306E\u5199\u771F\u304C\u304A\u51FA\u8FCE\u3048\uFF01\n\u30BF\u30B0\uFF1A#Horiz #gallery #photo #museum\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/05/06 - \u66F4\u65B0\u65E5 2025/07/01",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_253be946-b58a-49a5-9774-5901b7fd3447",
+          "Name": "Petal Two - Art Gallery",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "A daisy\u201A a person\u201A a grassfield\u201A a collection of arts\u2024\n\u30BF\u30B0\uFF1A#Exhibition #grassfield #art_gallery #gallery #chill\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/04/26 - \u66F4\u65B0\u65E5 2025/06/14",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -5532,7 +5769,7 @@
           "Name": "\u5F37\u5236\u30DF\u30E5\u30FC\u30C8\u55AB\u8336\u96E8\u97F3 COFFEE SHOP AMANE",
           "RecommendedCapacity": 32,
           "Capacity": 32,
-          "Description": "\u3053\u306E\u30EF\u30FC\u30EB\u30C9\u3067\u306F\u97F3\u58F0\u306F\u5F37\u5236\u7684\u306B\u30DF\u30E5\u30FC\u30C8\u3055\u308C\u3066\u3044\u308B\u70BA\u3001\u97F3\u58F0\u4F1A\u8A71\u306F\u3067\u304D\u307E\u305B\u3093\u3002\u4EBA\u306E\u6C17\u914D\u3092\u611F\u3058\u306A\u304C\u3089\u4F5C\u696D\u3057\u305F\u3044\u5834\u5408\u306B\u3054\u5229\u7528\u304F\u3060\u3055\u3044\u3002\u4E0D\u5B9A\u671F\u3067\u30A4\u30D9\u30F3\u30C8\u3082\u3084\u3063\u3066\u307E\u3059\u3002\u516C\u5F0FX\uFF1A\uFF20VRC_amane In this world\u201A audio is forcibly muted\u201A so audio conversation is not possible\u2024 If you want to work while feeling the presence of others\u201A try using this world\u2024\n\u30BF\u30B0\uFF1A#cafe #chill #silent #mute #work\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/11/14 - \u66F4\u65B0\u65E5 2025/08/04",
+          "Description": "\u3053\u306E\u30EF\u30FC\u30EB\u30C9\u3067\u306F\u97F3\u58F0\u306F\u5F37\u5236\u7684\u306B\u30DF\u30E5\u30FC\u30C8\u3055\u308C\u3066\u3044\u308B\u70BA\u3001\u97F3\u58F0\u4F1A\u8A71\u306F\u3067\u304D\u307E\u305B\u3093\u3002\u4EBA\u306E\u6C17\u914D\u3092\u611F\u3058\u306A\u304C\u3089\u4F5C\u696D\u3057\u305F\u3044\u5834\u5408\u306B\u3054\u5229\u7528\u304F\u3060\u3055\u3044\u3002\u4E0D\u5B9A\u671F\u3067\u30A4\u30D9\u30F3\u30C8\u3082\u3084\u3063\u3066\u307E\u3059\u3002\u516C\u5F0FX\uFF1A\uFF20VRC_amane In this world\u201A audio is forcibly muted\u201A so audio conversation is not possible\u2024 If you want to work while feeling the presence of others\u201A try using this world\u2024\n\u30BF\u30B0\uFF1A#cafe #chill #silent #mute #work\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2022/11/14 - \u66F4\u65B0\u65E5 2025/08/10",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -5667,7 +5904,7 @@
           "Name": "\uFF3BJP\uFF3D USiOPORT \u30A6\u30B7\u30F2\u30DD\u30FC\u30C8",
           "RecommendedCapacity": 20,
           "Capacity": 40,
-          "Description": "\u65E5\u672C\u8A9E\u5BFE\u5FDCPortal World\u3067\u3059\u3002\n\u30BF\u30B0\uFF1A#usio #portal #hub #japan #jp\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2020/01/09 - \u66F4\u65B0\u65E5 2025/08/06",
+          "Description": "\u65E5\u672C\u8A9E\u5BFE\u5FDCPortal World\u3067\u3059\u3002\n\u30BF\u30B0\uFF1A#usio #portal #hub #japan #jp\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2020/01/09 - \u66F4\u65B0\u65E5 2025/08/10",
           "Platform": {
             "PC": true,
             "Android": false,
