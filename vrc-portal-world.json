@@ -858,7 +858,7 @@
           "Name": "Monster Slayer \uFF08Public BETA\uFF09",
           "RecommendedCapacity": 6,
           "Capacity": 8,
-          "Description": "You and your friends must defend yourself against hordes of monsters\u201A ghouls\u201A abominations and all manner of different things that want to kill you\u201A utilise a variety of different weapons and gadgets to help you in your mission of mass monster genocide while visiting a variety of different locations\u2024\n\u30BF\u30B0\uFF1A#horror #coop #shooter #game #survival\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/10/29 - \u66F4\u65B0\u65E5 2025/08/19",
+          "Description": "You and your friends must defend yourself against hordes of monsters\u201A ghouls\u201A abominations and all manner of different things that want to kill you\u201A utilise a variety of different weapons and gadgets to help you in your mission of mass monster genocide while visiting a variety of different locations\u2024\n\u30BF\u30B0\uFF1A#horror #coop #shooter #game #survival\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/10/29 - \u66F4\u65B0\u65E5 2025/08/20",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -1220,6 +1220,19 @@
           "RecommendedCapacity": 20,
           "Capacity": 32,
           "Description": "\u304A\u984C\u3092\u30D6\u30ED\u30C3\u30AF\u3067\u4F5C\u3063\u3066\u305D\u308C\u304C\u4F55\u304B\u3092\u5F53\u3066\u308B\u30B2\u30FC\u30E0\u3067\u3059\u3002\u8907\u6570\u56DE\u30D7\u30EC\u30A4\u6642\u306B\u524D\u306E\u4F5C\u54C1\u304C\u6B8B\u308B\u4E0D\u5177\u5408\u3092\u4FEE\u6B63\u3057\u307E\u3057\u305F\u3002\n\u30BF\u30B0\uFF1A#game\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/01/26 - \u66F4\u65B0\u65E5 2025/04/11",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_8e30e0e5-aae0-4452-9281-6832f5e49b06",
+          "Name": "Rumble\u02F8 Disaster Survival",
+          "RecommendedCapacity": 16,
+          "Capacity": 24,
+          "Description": "Survive disasters with your friends\u01C3 a re-imagination of \uFF02Natural Disaster Survival\uFF02 - Created by vr_unveil\u2024\n\u30BF\u30B0\uFF1A#game #action #party #multiplayer #quest\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/03/30 - \u66F4\u65B0\u65E5 2024/09/02\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u30E9\u30F3\u30C0\u30E0\u306A\u30DE\u30C3\u30D7\u306B\u8D77\u3053\u308B\u707D\u5BB3\u304B\u3089\u751F\u304D\u6B8B\u308A\u307E\u3057\u3087\u3046",
           "Platform": {
             "PC": true,
             "Android": true,
@@ -2528,6 +2541,19 @@
           "ReleaseStatus": "Public"
         },
         {
+          "ID": "wrld_6996e907-acbd-4077-b3df-da2023b6bc7e",
+          "Name": "Reloader",
+          "RecommendedCapacity": 6,
+          "Capacity": 8,
+          "Description": "\u65E5\u672C\u8A9E\u8A71\u8005\u5411\u3051\u306E\u8131\u51FA\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002\u30EF\u30FC\u30EB\u30C9\u306E\u30ED\u30FC\u30C9\u3092\u7E70\u308A\u8FD4\u3057\u3001\u8131\u51FA\u3092\u76EE\u6307\u3057\u307E\u3057\u3087\u3046\u3002 \uFF03VRC_Reloader\uFF0F\u5236\u9650\u6642\u9593\uFF1A75\u5206\uFF0F\u4EBA\u6570\uFF1A1~6\u4EBA\u63A8\u5968\uFF0F\u6A5F\u5668\uFF1ADesktop\u3001VR\u4E21\u65B9\u30D7\u30EC\u30A4\u53EF\u80FD\uFF0F\u30AE\u30DF\u30C3\u30AF\uFF1A\u30B0\u30ED\u30FC\u30D0\u30EB\n\u30BF\u30B0\uFF1A#riddle #game #escape\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/06/29 - \u66F4\u65B0\u65E5 2025/07/23",
+          "Platform": {
+            "PC": true,
+            "Android": true,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_7a092275-aa12-46ef-9a53-c1d21968eda6",
           "Name": "\u8B0E\u89E3\u304D\u300C\u706F\u53F0\u5CF6\u304B\u3089\u306E\u8131\u51FA\u300D",
           "RecommendedCapacity": 4,
@@ -2824,19 +2850,6 @@
           "RecommendedCapacity": 16,
           "Capacity": 32,
           "Description": "\u64AE\u5F71\u3057\u305F\u304A\u5199\u771F\u305C\u3072 \uFF03CapturedInFlowerGarden \u3092\u3064\u3051\u3066X\u3067\u3054\u6295\u7A3F\u304F\u3060\u3055\u3044 flower garden \u306B\u3066\u64AE\u5F71\u3057\u305F\u304A\u5199\u771F\u3092\u98FE\u308B\u300EPetalFest\u300F\u30AE\u30E3\u30E9\u30EA\u30FC\u3092\u516C\u958B\u3057\u307E\u3057\u305F\u3002\u30ED\u30B0\u30CF\u30A6\u30B9\u5165\u308A\u53E3\u304B\u3089\u3054\u6765\u5834\u304F\u3060\u3055\u3044\u3002 4\u5E2D\u306E\u3046\u30613\u5E2D\uFF08\u30A2\u30A4\u30ED\u30F3\u304C\u8336\u8272\uFF09\u3092\u304A\u82B1\u3092\u4E26\u3079\u308B\u30DC\u30FC\u30C9\u306B\u3057\u307E\u3057\u305F\u3002\u305D\u308C\u305E\u308C\u5927\u304D\u3055\u304C\u9055\u3044\u3001small\u968E\u6BB5\u5074\u30FBmedium\u5BB6\u5074\u30FBlarge\u30D6\u30E9\u30F3\u30B3\u5074\u3067\u3059\u3002Pickup\u3067\u304D\u308B\u3082\u306E\u30922\u70B9\u5897\u3084\u3057\u307E\u3057\u305F\u3002 \u7D20\u6575\u306A\u30B5\u30E0\u30CD\u30A4\u30EB\u306F\u5929\u702C\u308C\u3044\u3055\u3093\uFF08X ID \u02F8 \uFF20amaselei\uFF09 \u306B\u64AE\u5F71\u30FB\u30C7\u30B6\u30A4\u30F3\u3057\u3066\u3044\u305F\u3060\u304D\u307E\u3057\u305F\u3001\u3042\u308A\u304C\u3068\u3046\u3054\u3056\u3044\u307E\u3057\u305F\u3002 \u4F7F\u7528\u3055\u305B\u3066\u9802\u3044\u305F\u30EF\u30FC\u30EB\u30C9\u30A2\u30BB\u30C3\u30C8\u306F\u3053\u3061\u3089\u3067URL\u307E\u3068\u3081\u3066\u3044\u307E\u3059 https\u02F8\u2044\u2044malleable-drip-17e\u2024notion\u2024site\u20441b8a28194d3680769483dc3cece20ed5\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/03/16 - \u66F4\u65B0\u65E5 2025/07/31",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "Public"
-        },
-        {
-          "ID": "wrld_5c39d0ce-d047-4244-b102-c4b647907d3c",
-          "Name": "Kyoto Keage Incline",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "\u4EAC\u90FD\u306E\u685C\u306E\u540D\u6240\u3067\u3082\u3042\u308B\u300C\u8E74\u4E0A\u30A4\u30F3\u30AF\u30E9\u30A4\u30F3\u300D\u3092\u518D\u73FE\uFF01Insta360\u52D5\u753B\u304B\u3089\u30D5\u30A9\u30C8\u30B0\u30E9\u30E1\u30C8\u30EA\u3002\u305D\u306E\u4ED6PLATEAU\u3084\u70B9\u7FA4\u30C7\u30FC\u30BF\u3082\u4F75\u7528\u3002\u300C\u4E09\u5341\u77F3\u8239\u300D\u306F\u52D5\u304B\u3057\u3066\u4E57\u8239\u3067\u304D\u307E\u3059\u3002\u300C\u306D\u3058\u308A\u307E\u3093\u307D\u300D\u3082\u901A\u308C\u3061\u3083\u3044\u307E\u3059\u3002\u30A4\u30F3\u30AF\u30E9\u30A4\u30F3\uFF08\u50BE\u659C\u9244\u9053\uFF09\u306E\u4ED5\u7D44\u307F\u3092\u5B66\u3079\u3001\u305D\u3057\u3066\u4F53\u9A13\u304C\u51FA\u6765\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002\u685C\u6E80\u958B\u306A\u306E\u3067\u304A\u82B1\u898B\u306B\u3082\u3069\u3046\u305E\uFF5E\u3002Experience the Kyoto \uFF02KeageIncline\uFF02 in Full Bloom\u01C3 Step into a photogrammetry recreation of the famous Keage Incline\u201A one of Kyotos iconic cherry blossom spotsbased on Insta360 footage\u201A and enhanced with PLATEAU and point cloud data\u2024 Ride the historical Sanjukkoku-bune boat\u201A explore the twisting brick tunnel Nejiri-Manpo\u201A and learn how the inclined railway system workedall in one immersive world\u2024 Cherry blossoms are in full bloom\u201A so dont forget to enjoy some virtual hanami too\u01C3\n\u30BF\u30B0\uFF1A#photogrammetry #kyoto #japan #digitaltwin #realitycapture\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/04/26 - \u66F4\u65B0\u65E5 2025/05/12",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -3398,6 +3411,19 @@
           "ReleaseStatus": "Public"
         },
         {
+          "ID": "wrld_251da81b-4c64-48dd-903b-9f23df42dae7",
+          "Name": "Secret Stream",
+          "RecommendedCapacity": 10,
+          "Capacity": 21,
+          "Description": "A beautiful stream flowing through an old ruined tunnel\u201A slowly being taken over by nature\u2024 The perfect place to relax\u2024\u2024\u2024 \u5EC3\u30C8\u30F3\u30CD\u30EB\u3092\u6D41\u308C\u3001\u3086\u3063\u304F\u308A\u3068\u81EA\u7136\u306B\u5F15\u304D\u7D99\u304C\u308C\u3066\u3044\u304F\u7F8E\u3057\u3044\u5C0F\u5DDD\u30EA\u30E9\u30C3\u30AF\u30B9\u3059\u308B\u306E\u306B\u6700\u9069\u306A\u5834\u6240\u2024\u2024\u2024 \u65E5\u672C\u306E\u30D5\u30A1\u30F3\u306B\u611F\u8B1D\u3057\u307E\u3059\u3001\u611B\u3057\u3066\u3044\u307E\u3059\uFF01\n\u30BF\u30B0\uFF1A#ambient #meditation #relaxing #photography #tunnel\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/12/26 - \u66F4\u65B0\u65E5 2024/04/05",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_b8c72a63-f5e9-4f23-8bbf-af62e4de23ad",
           "Name": "Untextured star lights",
           "RecommendedCapacity": 40,
@@ -3476,6 +3502,19 @@
           "ReleaseStatus": "Public"
         },
         {
+          "ID": "wrld_c1b81673-cb5f-411b-b89c-e7f66aae65f6",
+          "Name": "\u7720\u3089\u306C\u4E16\u754C\u6A39\u306E\u591C\uFF0FThe night of the unsleeping Yggdrasill",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u4E16\u754C\u6A39\u306F\u7720\u3089\u306A\u3044\u3002\u3053\u306E\u4E16\u754C\u304C\u3042\u308B\u9650\u308A\u3002 \u4E16\u754C\u6A39\u306E\u4E2D\u306E\u90E8\u5C4B\u306BQvPen\u3092\u7F6E\u3044\u3066\u3042\u308A\u307E\u3059\u3002Launch Pad\u3092\u958B\u304F\u3068\u3001\u4E0A\u90E8\u306B\u5404\u7A2E\u30E1\u30CB\u30E5\u30FC\u304C\u8868\u793A\u3055\u308C\u307E\u3059\u3002 \u2044 The Yggdrasil unsleeping\u2024 As long as this world exists\u2024 There is a QvPen in a room inside the Yggdrasil\u2024 When you open Launch Pad\u201A various menus will be displayed at the top\u2024\n\u30BF\u30B0\uFF1A#fantasy #tree #night #relax\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/05/07 - \u66F4\u65B0\u65E5 2025/06/04",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
           "ID": "wrld_c28936e7-13e2-41bf-8bc8-c3198d18203c",
           "Name": "tree of blessings",
           "RecommendedCapacity": 16,
@@ -3484,6 +3523,19 @@
           "Platform": {
             "PC": true,
             "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_4e7b0176-68fc-471c-98a9-5bd10148c333",
+          "Name": "Evermist Manor",
+          "RecommendedCapacity": 32,
+          "Capacity": 48,
+          "Description": "A home for the parts of us that have nowhere else to go\u2024\n\u30BF\u30B0\uFF1A#gothic #victorian #fog #dark #quiet\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/04/07 - \u66F4\u65B0\u65E5 2025/08/17\n\u500B\u4EBA\u30E1\u30E2\uFF1A\u30B4\u30B7\u30C3\u30AF\u8ABF\u306E\u30EF\u30FC\u30EB\u30C9",
+          "Platform": {
+            "PC": true,
+            "Android": true,
             "iOS": false
           },
           "ReleaseStatus": "Public"
@@ -4103,6 +4155,19 @@
           "RecommendedCapacity": 28,
           "Capacity": 28,
           "Description": "Riri\u0027s Maison du Magus Que la beaut\u00E9 de la magie parvienne \u00E0 ton c\u0153ur\u2024 \u300C\u9B54\u6CD5\u306E\u7F8E\u3057\u3055\u304C\u3042\u306A\u305F\u306E\u5FC3\u306B\u5C4A\u304D\u307E\u3059\u3088\u3046\u306B\u300D\n\u30BF\u30B0\uFF1A#Fantasy #Library #Magic\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2024/06/26 - \u66F4\u65B0\u65E5 2024/07/03",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_e376522e-6a73-42bc-a303-1540f8e36116",
+          "Name": "Forestella",
+          "RecommendedCapacity": 15,
+          "Capacity": 30,
+          "Description": "\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2023/02/14 - \u66F4\u65B0\u65E5 2023/02/17",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -5276,19 +5341,6 @@
           "ReleaseStatus": "Public"
         },
         {
-          "ID": "wrld_da1c2112-a93a-47af-8199-adbfa3379f0f",
-          "Name": "Laurentech",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "Laurentech-\u300C\u4F55\u3067\u3082\u306A\u3044\u3082\u306E\u300D Coffee \u2044 Yamaplayer \u2044 QVpen \u2044 Rain sound \u2044 RBS SleepKit2 PC\u306F\u5DE6\u624B\u30C8\u30EA\u30AC\u30FC\u4E8C\u56DE\u3001\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\u306FE\u30AD\u30FC\u3067\u30BF\u30D6\u30EC\u30C3\u30C8\u3092\u547C\u3073\u51FA\u305B\u307E\u3059 \u30D9\u30C3\u30C9\u30E2\u30CB\u30BF\u30FC\u306E\u89D2\u5EA6\u8ABF\u6574\u306F\u30BF\u30D6\u30EC\u30C3\u30C8\u3067\u3067\u304D\u307E\u3059 2025\u204405\u204422 VRCLV\u5BFE\u5FDC\u3057\u307E\u3057\u305F\n\u30BF\u30B0\uFF1A#chill #rain #coffee #sleep #VRCLV\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/05/10 - \u66F4\u65B0\u65E5 2025/05/22",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "Public"
-        },
-        {
           "ID": "wrld_1f8831d6-98da-48f7-8294-fd23a6ca77d9",
           "Name": "\u304D\u306E\u307F\u3068\u68EE\u306E\u90E8\u5C4B\u3067\u304A\u3084\u3059\u307F",
           "RecommendedCapacity": 16,
@@ -5835,6 +5887,19 @@
           "RecommendedCapacity": 12,
           "Capacity": 20,
           "Description": "\u30E1\u30EB\u30AF\u30B9\u30C8\u30FC\u30EA\u30A2\u306E\u4E8C\u6B21\u5275\u4F5C\u30FB\u975E\u516C\u5F0F\u306E\u30D5\u30A1\u30F3\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002 \u7DD1\u7CBE\u304C\u3042\u306A\u305F\u3092\u547C\u3093\u3067\u3044\u307E\u3059\u3002\n\u30BF\u30B0\uFF1A#forest #mercstoria #\u30E1\u30EB\u30AF\u30B9\u30C8\u30FC\u30EA\u30A2 #\u30E1\u30EB\u30B9\u30C8 #\u690D\u7269\u306E\u56FD\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/03/08 - \u66F4\u65B0\u65E5 2025/03/22",
+          "Platform": {
+            "PC": true,
+            "Android": false,
+            "iOS": false
+          },
+          "ReleaseStatus": "Public"
+        },
+        {
+          "ID": "wrld_5c39d0ce-d047-4244-b102-c4b647907d3c",
+          "Name": "Kyoto Keage Incline",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "\u4EAC\u90FD\u306E\u685C\u306E\u540D\u6240\u3067\u3082\u3042\u308B\u300C\u8E74\u4E0A\u30A4\u30F3\u30AF\u30E9\u30A4\u30F3\u300D\u3092\u518D\u73FE\uFF01Insta360\u52D5\u753B\u304B\u3089\u30D5\u30A9\u30C8\u30B0\u30E9\u30E1\u30C8\u30EA\u3002\u305D\u306E\u4ED6PLATEAU\u3084\u70B9\u7FA4\u30C7\u30FC\u30BF\u3082\u4F75\u7528\u3002\u300C\u4E09\u5341\u77F3\u8239\u300D\u306F\u52D5\u304B\u3057\u3066\u4E57\u8239\u3067\u304D\u307E\u3059\u3002\u300C\u306D\u3058\u308A\u307E\u3093\u307D\u300D\u3082\u901A\u308C\u3061\u3083\u3044\u307E\u3059\u3002\u30A4\u30F3\u30AF\u30E9\u30A4\u30F3\uFF08\u50BE\u659C\u9244\u9053\uFF09\u306E\u4ED5\u7D44\u307F\u3092\u5B66\u3079\u3001\u305D\u3057\u3066\u4F53\u9A13\u304C\u51FA\u6765\u308B\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002\u685C\u6E80\u958B\u306A\u306E\u3067\u304A\u82B1\u898B\u306B\u3082\u3069\u3046\u305E\uFF5E\u3002Experience the Kyoto \uFF02KeageIncline\uFF02 in Full Bloom\u01C3 Step into a photogrammetry recreation of the famous Keage Incline\u201A one of Kyotos iconic cherry blossom spotsbased on Insta360 footage\u201A and enhanced with PLATEAU and point cloud data\u2024 Ride the historical Sanjukkoku-bune boat\u201A explore the twisting brick tunnel Nejiri-Manpo\u201A and learn how the inclined railway system workedall in one immersive world\u2024 Cherry blossoms are in full bloom\u201A so dont forget to enjoy some virtual hanami too\u01C3\n\u30BF\u30B0\uFF1A#photogrammetry #kyoto #japan #digitaltwin #realitycapture\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2025/04/26 - \u66F4\u65B0\u65E5 2025/05/12",
           "Platform": {
             "PC": true,
             "Android": false,
@@ -6395,7 +6460,7 @@
           "Name": "\uFF3BJP\uFF3D USiOPORT \u30A6\u30B7\u30F2\u30DD\u30FC\u30C8",
           "RecommendedCapacity": 20,
           "Capacity": 40,
-          "Description": "\u65E5\u672C\u8A9E\u5BFE\u5FDCPortal World\u3067\u3059\u3002\n\u30BF\u30B0\uFF1A#usio #portal #hub #japan #jp\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2020/01/09 - \u66F4\u65B0\u65E5 2025/08/17",
+          "Description": "\u65E5\u672C\u8A9E\u5BFE\u5FDCPortal World\u3067\u3059\u3002\n\u30BF\u30B0\uFF1A#usio #portal #hub #japan #jp\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2020/01/09 - \u66F4\u65B0\u65E5 2025/08/20",
           "Platform": {
             "PC": true,
             "Android": false,
