@@ -6819,19 +6819,6 @@
           "ReleaseStatus": "Public"
         },
         {
-          "ID": "wrld_ff54f3ca-4aa7-411b-8fe3-2d608e7edff9",
-          "Name": "VirtualLens2 Demo \uFF06 Tutorial",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "Avatars 3\u20240 \u7528\u30AB\u30E1\u30E9\u62E1\u5F35\u30AE\u30DF\u30C3\u30AF VirtualLens2 \u306E\u30C7\u30E2\u30EF\u30FC\u30EB\u30C9\u3067\u3059\u3002 \u3053\u306E\u30EF\u30FC\u30EB\u30C9\u3067\u306E\u307F\u5229\u7528\u53EF\u80FD\u306A\u4F53\u9A13\u7248\u3092\u5B9F\u88C5\u3057\u305F\u30A2\u30D0\u30BF\u30FC\u3068\u64CD\u4F5C\u30AC\u30A4\u30C9\u304C\u7528\u610F\u3055\u308C\u3066\u3044\u307E\u3059\u3002 https\u02F8\u2044\u2044logilabo\u2024booth\u2024pm\u2044items\u20442280136\n\u66F4\u65B0\u60C5\u5831\uFF1A\u516C\u958B\u65E5 2021/12/09 - \u66F4\u65B0\u65E5 2022/03/30",
-          "Platform": {
-            "PC": true,
-            "Android": false,
-            "iOS": false
-          },
-          "ReleaseStatus": "Public"
-        },
-        {
           "ID": "wrld_5fe236dc-a6c7-4a67-8883-0d45ab5575c7",
           "Name": "BOOTH \u8A66\u7740\u5BA4 \uFF5C Outfits Showcase",
           "RecommendedCapacity": 16,
